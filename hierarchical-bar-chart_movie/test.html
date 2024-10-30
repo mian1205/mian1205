@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/theme/white.css">
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <script src="0b07c3790ae4af2c@368.js"></script> <!-- 引用D3层次图表代码 -->
+</head>
+<body>
+
+<div class="reveal">
+  <div class="slides">
+    
+    <!-- Page 1: D3 Hierarchical Bar Chart -->
+    <section>
+      <h2>Hierarchical Bar Chart</h2>
+      <div id="d3-container"></div>
+    </section>
+    
+    <!-- Page 2: Python Generated Image -->
+    <section>
+      <h2>Python Generated Plot</h2>
+      <img src="plot_image.png" alt="Python Plot Image" style="width: 70%; height: auto;">
+    </section>
+
+  </div>
+</div>
+
+<script>
+  // Initialize Reveal.js
+  Reveal.initialize();
+
+  // 调用 0b07c3790ae4af2c@368.js 文件中的函数
+  // 确保调用正确的渲染函数显示图表
+  renderChart(); // 替换为文件中的实际函数名
+</script>
+
+</body>
+</html>
