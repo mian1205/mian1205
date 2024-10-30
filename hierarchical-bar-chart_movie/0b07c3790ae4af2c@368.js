@@ -15,52 +15,13 @@ function _chart(d3, width, height, x, root, up, xAxis, yAxis, down) {
     .attr("height", height)
     .attr("style", "max-width: 100%; height: auto;");
 
-  // 生成初始的颜色比例尺（根节点的子节点）
-  const color = getColorScale(d3, root);
-  const minValue = d3.min(root.children, d => d.value);
-  const maxValue = d3.max(root.children, d => d.value);
-
-  // 添加颜色比例尺的条形
-  const legendHeight = 300;
-  const legendWidth = 20;
-  const legendScale = d3.scaleLinear()
-    .domain([minValue, maxValue])
-    .range([legendHeight, 0]);
-  
+  // creat a legend to store color 
   const legend = svg.append("g")
     .attr("class", "legend")
     .attr("transform", `translate(${width + 30}, 70)`);
 
-  // 颜色条（渐变效果）
-  const gradient = svg.append("defs")
-    .append("linearGradient")
-    .attr("id", "legend-gradient")
-    .attr("x1", "0%").attr("y1", "100%")
-    .attr("x2", "0%").attr("y2", "0%");
-
-  gradient.append("stop")
-    .attr("offset", "0%")
-    .attr("stop-color", color(minValue));
-
-  gradient.append("stop")
-    .attr("offset", "100%")
-    .attr("stop-color", color(maxValue));
-
-  legend.append("rect")
-    .attr("width", legendWidth)
-    .attr("height", legendHeight)
-    .style("fill", "url(#legend-gradient)");
-
-  // 在颜色比例尺旁标注数值
-  const legendAxis = d3.axisRight(legendScale)
-    .ticks(5); // 根据需要增加刻度数
-
-  legend.append("g")
-    .attr("transform", `translate(${legendWidth}, 0)`)
-    .call(legendAxis);
-
-
-
+  // init legend
+  updateLegend(d3, svg, legend, root);
 
   x.domain([0, root.value]);
 
@@ -130,6 +91,47 @@ function _chart(d3, width, height, x, root, up, xAxis, yAxis, down) {
   return svg.node();
 }
 
+// update color legend
+function updateLegend(d3, svg, legend, currentNode) {
+  const minValue = d3.min(currentNode.children, d => d.value);
+  const maxValue = d3.max(currentNode.children, d => d.value);
+  const color = getColorScale(d3, currentNode);
+
+  // update shape
+  const legendHeight = 300;
+  const legendWidth = 20;
+  const legendScale = d3.scaleLinear()
+    .domain([minValue, maxValue])
+    .range([legendHeight, 0]);
+
+  // clean old color legend
+  svg.select("#legend-gradient").remove();
+  const gradient = svg.append("defs")
+    .append("linearGradient")
+    .attr("id", "legend-gradient")
+    .attr("x1", "0%").attr("y1", "100%")
+    .attr("x2", "0%").attr("y2", "0%");
+
+  gradient.append("stop")
+    .attr("offset", "0%")
+    .attr("stop-color", color(minValue));
+
+  gradient.append("stop")
+    .attr("offset", "100%")
+    .attr("stop-color", color(maxValue));
+
+  legend.selectAll("rect").remove();
+  legend.append("rect")
+    .attr("width", legendWidth)
+    .attr("height", legendHeight)
+    .style("fill", "url(#legend-gradient)");
+
+  const legendAxis = d3.axisRight(legendScale).ticks(5);
+  legend.selectAll("g").remove();
+  legend.append("g")
+    .attr("transform", `translate(${legendWidth}, 0)`)
+    .call(legendAxis);
+}
 
 function _bar(marginTop, barStep, barPadding, marginLeft, x) {
   return (
@@ -166,6 +168,9 @@ function _down(d3, duration, bar, stack, stagger, x, xAxis, barStep, color, back
   return (
     function down(svg, d) {
       if (!d.children || d3.active(svg.node())) return;
+
+      // update Legend
+      updateLegend(d3, svg, svg.select(".legend"), d);
 
       svg.datum(d);
 
@@ -268,6 +273,10 @@ function _up(duration, x, d3, xAxis, stagger, stack, color, bar, down, barStep, 
   return (
     function up(svg, d) {
       if (!d.parent || !svg.selectAll(".exit").empty()) return;
+
+      // 更新比例尺到上一级节点的范围
+      updateLegend(d3, svg, svg.select(".legend"), d.parent);
+
       svg.datum(d.parent);
 
       // 调用 getColorScale 获取当前页面的颜色比例尺
