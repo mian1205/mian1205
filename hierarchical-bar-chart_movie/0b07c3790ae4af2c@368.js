@@ -4,13 +4,13 @@ function _1(md) {
 
 # Hierarchical bar chart
 
-Click a blue bar to drill down, or click the background to go back up.`
+Click a blue bar to drill down, or click the "back" button to go back up.`
   )
 }
 
 function _chart(d3, width, height, x, root, up, xAxis, yAxis, down) {
   const svg = d3.create("svg")
-    .attr("viewBox", [0, 0, width + 100, height])  // 增加额外的宽度为颜色比例尺留出空间
+    .attr("viewBox", [0, 0, width + 100, height])
     .attr("width", width + 100)
     .attr("height", height)
     .attr("style", "max-width: 100%; height: auto;");
@@ -156,9 +156,8 @@ function _bar(marginTop, barStep, barPadding, marginLeft, x) {
 
       bar.append("rect")
         .attr("x", x(0))
-        .attr("width", d => x(d.value) - x(0))
-        .attr("height", barStep * (1 - barPadding));
-
+        .attr("width", d => x(d.value) - x(0) + 30)
+        .attr("height", barStep * (1 - barPadding))
       return g;
     }
   )
@@ -245,21 +244,8 @@ function _down(d3, duration, bar, stack, stagger, x, xAxis, barStep, color, back
       enter.selectAll("g").transition(transition2)
         .attr("transform", (d, i) => `translate(0,${barStep * i})`);
 
-      // // Color the bars as parents; they will fade to children if appropriate.
-      // enter.selectAll("rect")
-      //   .attr("fill", d => color(d.value))
-      //   .attr("fill", function(d) {
-      //     return "rgb(0, 0, " + (d.children * 10) + ")";
-      // })
-      //   .attr("fill-opacity", 1)
-      //   .transition(transition2)
-      //   .attr("fill", d => color(!!d.children))
-      //   .attr("width", d => x(d.value) - x(0));
-
       enter.selectAll("rect")
         .attr("fill", d => {
-          console.log("d.value:", d.value); // 输出 d.value
-          console.log("color(d.value):", color(d.value)); // 输出 color(d.value) 的颜色值
           return color(d.value); // 应用颜色
         })
         .attr("fill-opacity", 1)
@@ -274,14 +260,11 @@ function _up(duration, x, d3, xAxis, stagger, stack, color, bar, down, barStep, 
     function up(svg, d) {
       if (!d.parent || !svg.selectAll(".exit").empty()) return;
 
-      // 更新比例尺到上一级节点的范围
       updateLegend(d3, svg, svg.select(".legend"), d.parent);
 
       svg.datum(d.parent);
 
-      // 调用 getColorScale 获取当前页面的颜色比例尺
       const color = getColorScale(d3, d.parent);
-      console.log("up -> color domain:", color.domain());
 
       // construct title
       let titleText = "The Domestic Gross: ";
@@ -332,11 +315,6 @@ function _up(duration, x, d3, xAxis, stagger, stack, color, bar, down, barStep, 
       // Transition exiting bars to the parent’s position.
       exit.selectAll("g").transition(transition2)
         .attr("transform", stack(d.index));
-
-      // Transition exiting rects to the new scale and fade to parent color.
-      // exit.selectAll("rect").transition(transition1)
-      //   .attr("width", d => x(d.value) - x(0))
-      //   .attr("fill", d => color(d.value));
 
       // Transition exiting text to fade out.
       // Remove exiting nodes.
@@ -443,11 +421,9 @@ function _color(d3, root) {
 }
 
 function getColorScale(d3, d) {
-  // 获取当前节点的所有子节点的 value 的最小值和最大值
   const minValue = d3.min(d.children, child => child.value);
   const maxValue = d3.max(d.children, child => child.value);
 
-  // 创建颜色比例尺
   return d3.scaleLinear()
     .domain([minValue, maxValue])
     .range(["#b0e0e6", "#4682b4", "#002366"]);
@@ -455,13 +431,13 @@ function getColorScale(d3, d) {
 
 function _barStep() {
   return (
-    27
+    40
   )
 }
 
 function _barPadding(barStep) {
   return (
-    3 / barStep
+    7 / barStep
   )
 }
 
