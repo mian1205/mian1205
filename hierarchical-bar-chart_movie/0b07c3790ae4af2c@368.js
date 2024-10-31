@@ -15,6 +15,19 @@ function _chart(d3, width, height, x, root, up, xAxis, yAxis, down) {
     .attr("height", height)
     .attr("style", "max-width: 100%; height: auto;");
 
+  // 创建 tooltip 元素
+  const tooltip = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("position", "absolute")
+    .style("background-color", "#fff")
+    .style("border", "1px solid #ccc")
+    .style("padding", "8px")
+    .style("border-radius", "4px")
+    .style("pointer-events", "none")
+    .style("opacity", 0);  // 初始隐藏
+
+  down(svg, root, tooltip);
+
   // creat a legend to store color 
   const legend = svg.append("g")
     .attr("class", "legend")
@@ -24,15 +37,6 @@ function _chart(d3, width, height, x, root, up, xAxis, yAxis, down) {
   updateLegend(d3, svg, legend, root);
 
   x.domain([0, root.value]);
-
-  svg.append("rect")
-    .attr("class", "background")
-    .attr("fill", "none")
-    .attr("pointer-events", "all")
-    .attr("width", width)
-    .attr("height", height)
-    .attr("cursor", "pointer")
-    .on("click", (event, d) => up(svg, d));
 
   // creat back button
   const backButtonGroup = svg.append("g")
@@ -154,10 +158,23 @@ function _bar(marginTop, barStep, barPadding, marginLeft, x) {
         .attr("dy", ".35em")
         .text(d => d.data.name);
 
+      // 添加条形图并设置鼠标事件以显示 tooltip
       bar.append("rect")
         .attr("x", x(0))
         .attr("width", d => x(d.value) - x(0) + 30)
         .attr("height", barStep * (1 - barPadding))
+        .on("mouseover", (event, d) => {
+          tooltip.style("opacity", 1)
+            .html(`Name: ${d.data.name}<br>Value: ${d.value}`);
+        })
+        .on("mousemove", (event) => {
+          tooltip.style("left", (event.pageX + 10) + "px")
+            .style("top", (event.pageY + 10) + "px");
+        })
+        .on("mouseout", () => {
+          tooltip.style("opacity", 0);
+        });
+
       return g;
     }
   )
@@ -165,9 +182,10 @@ function _bar(marginTop, barStep, barPadding, marginLeft, x) {
 
 function _down(d3, duration, bar, stack, stagger, x, xAxis, barStep, color, backButton) {
   return (
-    function down(svg, d) {
+    function down(svg, d, tooltip) {
       if (!d.children || d3.active(svg.node())) return;
 
+      bar(svg, down, d, ".y-axis", tooltip);
       // update Legend
       updateLegend(d3, svg, svg.select(".legend"), d);
 

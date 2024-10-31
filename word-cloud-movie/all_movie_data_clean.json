@@ -1,0 +1,5146 @@
+[
+    {
+        "name": "300",
+        "audienceScore": 90.0,
+        "story": "Sacrifice",
+        "worldwideGross": 456.07,
+        "marketProfitability": "701.64%",
+        "year": 2007
+    },
+    {
+        "name": "3:10 to Yuma",
+        "audienceScore": 85.0,
+        "story": "sacrifice",
+        "worldwideGross": 69.78,
+        "marketProfitability": "145.38%",
+        "year": 2007
+    },
+    {
+        "name": "30 Days of Night",
+        "audienceScore": 57.0,
+        "story": "Monster Force",
+        "worldwideGross": 75.1,
+        "marketProfitability": "234.67%",
+        "year": 2007
+    },
+    {
+        "name": "Across the Universe",
+        "audienceScore": 84.0,
+        "story": "Love",
+        "worldwideGross": 29.37,
+        "marketProfitability": "65.26%",
+        "year": 2007
+    },
+    {
+        "name": "Alien vs. Predator -- Requiem",
+        "audienceScore": 37.0,
+        "story": "Monster Force",
+        "worldwideGross": 128.88,
+        "marketProfitability": "322.21%",
+        "year": 2007
+    },
+    {
+        "name": "Alvin and the Chipmunks",
+        "audienceScore": 73.0,
+        "story": "Comedy",
+        "worldwideGross": 360.47,
+        "marketProfitability": "514.95%",
+        "year": 2007
+    },
+    {
+        "name": "American Gangster",
+        "audienceScore": 87.0,
+        "story": "pursuit",
+        "worldwideGross": 267.9,
+        "marketProfitability": "267.90%",
+        "year": 2007
+    },
+    {
+        "name": "Bee Movie",
+        "audienceScore": 57.0,
+        "story": "Journey and Return",
+        "worldwideGross": 287.12,
+        "marketProfitability": "191.42%",
+        "year": 2007
+    },
+    {
+        "name": "Beowulf",
+        "audienceScore": 52.0,
+        "story": "Journey and Return",
+        "worldwideGross": 196.26,
+        "marketProfitability": "130.84%",
+        "year": 2007
+    },
+    {
+        "name": "Blades of Glory",
+        "audienceScore": 66.0,
+        "story": "Rivalry",
+        "worldwideGross": 145.71,
+        "marketProfitability": "238.87%",
+        "year": 2007
+    },
+    {
+        "name": "Charlie Wilson's War",
+        "audienceScore": 73.0,
+        "story": "Discovery",
+        "worldwideGross": 118.48,
+        "marketProfitability": "157.97%",
+        "year": 2007
+    },
+    {
+        "name": "Daddy Day Camp",
+        "audienceScore": 63.0,
+        "story": "Comedy",
+        "worldwideGross": 18.2,
+        "marketProfitability": "303.29%",
+        "year": 2007
+    },
+    {
+        "name": "Disturbia",
+        "audienceScore": 75.0,
+        "story": "Pursuit",
+        "worldwideGross": 117.76,
+        "marketProfitability": "588.80%",
+        "year": 2007
+    },
+    {
+        "name": "Dragon Wars (aka D-War)",
+        "audienceScore": 44.0,
+        "story": "Monster Force",
+        "worldwideGross": 74.25,
+        "marketProfitability": "99.00%",
+        "year": 2007
+    },
+    {
+        "name": "Enchanted",
+        "audienceScore": 80.0,
+        "story": "Love",
+        "worldwideGross": 340.49,
+        "marketProfitability": "400.57%",
+        "year": 2007
+    },
+    {
+        "name": "Epic Movie",
+        "audienceScore": 38.0,
+        "story": "Comedy",
+        "worldwideGross": 86.87,
+        "marketProfitability": "434.33%",
+        "year": 2007
+    },
+    {
+        "name": "Evan Almighty",
+        "audienceScore": 56.0,
+        "story": "Comedy",
+        "worldwideGross": 173.39,
+        "marketProfitability": "99.08%",
+        "year": 2007
+    },
+    {
+        "name": "Fantastic Four: Rise of the Silver Surfer",
+        "audienceScore": 55.0,
+        "story": "Monster Force",
+        "worldwideGross": 289.05,
+        "marketProfitability": "222.34%",
+        "year": 2007
+    },
+    {
+        "name": "Ghost Rider",
+        "audienceScore": 56.0,
+        "story": "Monster Force",
+        "worldwideGross": 228.74,
+        "marketProfitability": "207.94%",
+        "year": 2007
+    },
+    {
+        "name": "Good Luck Chuck",
+        "audienceScore": 61.0,
+        "story": "Love",
+        "worldwideGross": 59.19,
+        "marketProfitability": "236.77%",
+        "year": 2007
+    },
+    {
+        "name": "Grindhouse",
+        "audienceScore": 86.0,
+        "story": "pursuit",
+        "worldwideGross": 50.19,
+        "marketProfitability": "94.71%",
+        "year": 2007
+    },
+    {
+        "name": "Hairspray",
+        "audienceScore": 84.0,
+        "story": "Underdog",
+        "worldwideGross": 202.55,
+        "marketProfitability": "270.06%",
+        "year": 2007
+    },
+    {
+        "name": "Halloween",
+        "audienceScore": 64.0,
+        "story": "Pursuit",
+        "worldwideGross": 78.47,
+        "marketProfitability": "392.35%",
+        "year": 2007
+    },
+    {
+        "name": "Happily N'Ever After",
+        "audienceScore": 43.0,
+        "story": "Maturation",
+        "worldwideGross": 38.08,
+        "marketProfitability": "81.03%",
+        "year": 2007
+    },
+    {
+        "name": "Harry Potter and the Order of the Phoenix",
+        "audienceScore": 82.0,
+        "story": "Quest",
+        "worldwideGross": 0.0,
+        "marketProfitability": "626.59%",
+        "year": 2007
+    },
+    {
+        "name": "Hitman",
+        "audienceScore": 61.0,
+        "story": "Quest",
+        "worldwideGross": 99.96,
+        "marketProfitability": "571.22%",
+        "year": 2007
+    },
+    {
+        "name": "Hostel: Part II",
+        "audienceScore": 45.0,
+        "story": "Escape",
+        "worldwideGross": 35.62,
+        "marketProfitability": "356.20%",
+        "year": 2007
+    },
+    {
+        "name": "I Am Legend",
+        "audienceScore": 69.0,
+        "story": "Quest",
+        "worldwideGross": 584.16,
+        "marketProfitability": "389.44%",
+        "year": 2007
+    },
+    {
+        "name": "I Now Pronounce You Chuck and Larry",
+        "audienceScore": 73.0,
+        "story": "Comedy",
+        "worldwideGross": 186.05,
+        "marketProfitability": "218.89%",
+        "year": 2007
+    },
+    {
+        "name": "In the Land of Women",
+        "audienceScore": 72.0,
+        "story": "Transformation",
+        "worldwideGross": 17.56,
+        "marketProfitability": "175.62%",
+        "year": 2007
+    },
+    {
+        "name": "Into the Wild",
+        "audienceScore": 90.0,
+        "story": "quest",
+        "worldwideGross": 55.63,
+        "marketProfitability": "370.90%",
+        "year": 2007
+    },
+    {
+        "name": "Juno",
+        "audienceScore": 89.0,
+        "story": "Maturation",
+        "worldwideGross": 231.18,
+        "marketProfitability": "3082.46%",
+        "year": 2007
+    },
+    {
+        "name": "Knocked Up",
+        "audienceScore": 83.0,
+        "story": "Love",
+        "worldwideGross": 219.0,
+        "marketProfitability": "663.64%",
+        "year": 2007
+    },
+    {
+        "name": "License to Wed",
+        "audienceScore": 55.0,
+        "story": "Love",
+        "worldwideGross": 69.31,
+        "marketProfitability": "198.02%",
+        "year": 2007
+    },
+    {
+        "name": "Lions for Lambs",
+        "audienceScore": 48.0,
+        "story": "Quest",
+        "worldwideGross": 63.21,
+        "marketProfitability": "180.60%",
+        "year": 2007
+    },
+    {
+        "name": "Live Free or Die Hard",
+        "audienceScore": 86.0,
+        "story": "Rescue",
+        "worldwideGross": 383.53,
+        "marketProfitability": "348.66%",
+        "year": 2007
+    },
+    {
+        "name": "Meet the Robinsons",
+        "audienceScore": 75.0,
+        "story": "Quest",
+        "worldwideGross": 169.33,
+        "marketProfitability": "169.33%",
+        "year": 2007
+    },
+    {
+        "name": "Michael Clayton",
+        "audienceScore": 72.0,
+        "story": "Transformation",
+        "worldwideGross": 92.99,
+        "marketProfitability": "371.97%",
+        "year": 2007
+    },
+    {
+        "name": "Mr. Brooks",
+        "audienceScore": 75.0,
+        "story": "Temptation",
+        "worldwideGross": 48.12,
+        "marketProfitability": "240.61%",
+        "year": 2007
+    },
+    {
+        "name": "Mr. Magorium's Wonder Emporium",
+        "audienceScore": 56.0,
+        "story": "Transformation",
+        "worldwideGross": 68.95,
+        "marketProfitability": "275.79%",
+        "year": 2007
+    },
+    {
+        "name": "Music and Lyrics",
+        "audienceScore": 70.0,
+        "story": "Love",
+        "worldwideGross": 145.9,
+        "marketProfitability": "364.74%",
+        "year": 2007
+    },
+    {
+        "name": "Nancy Drew",
+        "audienceScore": 61.0,
+        "story": "The Riddle",
+        "worldwideGross": 30.67,
+        "marketProfitability": "153.33%",
+        "year": 2007
+    },
+    {
+        "name": "National Treasure: Book of Secrets",
+        "audienceScore": 72.0,
+        "story": "The Riddle",
+        "worldwideGross": 457.36,
+        "marketProfitability": "351.82%",
+        "year": 2007
+    },
+    {
+        "name": "Next",
+        "audienceScore": 59.0,
+        "story": "Pursuit",
+        "worldwideGross": 73.54,
+        "marketProfitability": "105.06%",
+        "year": 2007
+    },
+    {
+        "name": "No Country for Old Men",
+        "audienceScore": 84.0,
+        "story": "Pursuit",
+        "worldwideGross": 161.0,
+        "marketProfitability": "644.00%",
+        "year": 2007
+    },
+    {
+        "name": "No Reservations",
+        "audienceScore": 64.0,
+        "story": "Love",
+        "worldwideGross": 92.6,
+        "marketProfitability": "330.72%",
+        "year": 2007
+    },
+    {
+        "name": "Norbit",
+        "audienceScore": 56.0,
+        "story": "Comedy",
+        "worldwideGross": 159.31,
+        "marketProfitability": "265.52%",
+        "year": 2007
+    },
+    {
+        "name": "Ocean's 13",
+        "audienceScore": 74.0,
+        "story": "Revenge",
+        "worldwideGross": 311.31,
+        "marketProfitability": "366.25%",
+        "year": 2007
+    },
+    {
+        "name": "P.S. I Love You",
+        "audienceScore": 82.0,
+        "story": "Love",
+        "worldwideGross": 153.09,
+        "marketProfitability": "510.31%",
+        "year": 2007
+    },
+    {
+        "name": "Pathfinder: Legend of the Ghost Warrior",
+        "audienceScore": 41.0,
+        "story": "Rescue",
+        "worldwideGross": 30.82,
+        "marketProfitability": "118.55%",
+        "year": 2007
+    },
+    {
+        "name": "Pirates of the Caribbean: At World's End",
+        "audienceScore": 74.0,
+        "story": "Rescue",
+        "worldwideGross": 961.0,
+        "marketProfitability": "320.33%",
+        "year": 2007
+    },
+    {
+        "name": "Premonition",
+        "audienceScore": 55.0,
+        "story": "The Riddle",
+        "worldwideGross": 84.0,
+        "marketProfitability": "419.98%",
+        "year": 2007
+    },
+    {
+        "name": "Ratatouille",
+        "audienceScore": 84.0,
+        "story": "Transformation",
+        "worldwideGross": 621.42,
+        "marketProfitability": "414.28%",
+        "year": 2007
+    },
+    {
+        "name": "Rush Hour 3",
+        "audienceScore": 68.0,
+        "story": "Rescue",
+        "worldwideGross": 258.02,
+        "marketProfitability": "184.30%",
+        "year": 2007
+    },
+    {
+        "name": "Saw IV",
+        "audienceScore": 70.0,
+        "story": "Escape",
+        "worldwideGross": 139.35,
+        "marketProfitability": "1393.53%",
+        "year": 2007
+    },
+    {
+        "name": "Shoot 'Em Up",
+        "audienceScore": 66.0,
+        "story": "Pursuit",
+        "worldwideGross": 26.81,
+        "marketProfitability": "68.74%",
+        "year": 2007
+    },
+    {
+        "name": "Shooter",
+        "audienceScore": 82.0,
+        "story": "Pursuit",
+        "worldwideGross": 95.7,
+        "marketProfitability": "156.88%",
+        "year": 2007
+    },
+    {
+        "name": "Shrek the Third",
+        "audienceScore": 57.0,
+        "story": "Quest",
+        "worldwideGross": 798.96,
+        "marketProfitability": "499.35%",
+        "year": 2007
+    },
+    {
+        "name": "Sicko",
+        "audienceScore": 87.0,
+        "story": "quest",
+        "worldwideGross": 35.77,
+        "marketProfitability": "397.42%",
+        "year": 2007
+    },
+    {
+        "name": "Smokin' Aces",
+        "audienceScore": 64.0,
+        "story": "Pursuit",
+        "worldwideGross": 57.1,
+        "marketProfitability": "335.91%",
+        "year": 2007
+    },
+    {
+        "name": "Spider-Man 3",
+        "audienceScore": 54.0,
+        "story": "Metamorphosis",
+        "worldwideGross": 890.87,
+        "marketProfitability": "345.30%",
+        "year": 2007
+    },
+    {
+        "name": "Stardust",
+        "audienceScore": 86.0,
+        "story": "Quest",
+        "worldwideGross": 0.0,
+        "marketProfitability": "193.66%",
+        "year": 2007
+    },
+    {
+        "name": "Stomp the Yard",
+        "audienceScore": 83.0,
+        "story": "Maturation",
+        "worldwideGross": 75.51,
+        "marketProfitability": "539.37%",
+        "year": 2007
+    },
+    {
+        "name": "Superbad",
+        "audienceScore": 87.0,
+        "story": "Comedy",
+        "worldwideGross": 169.87,
+        "marketProfitability": "849.36%",
+        "year": 2007
+    },
+    {
+        "name": "Surf's Up",
+        "audienceScore": 64.0,
+        "story": "Discovery",
+        "worldwideGross": 149.04,
+        "marketProfitability": "175.35%",
+        "year": 2007
+    },
+    {
+        "name": "Sweeney Todd: The Demon Barber of Fleet Street",
+        "audienceScore": 81.0,
+        "story": "Revenge",
+        "worldwideGross": 152.52,
+        "marketProfitability": "305.05%",
+        "year": 2007
+    },
+    {
+        "name": "The Bourne Ultimatum",
+        "audienceScore": 91.0,
+        "story": "Pursuit",
+        "worldwideGross": 442.82,
+        "marketProfitability": "402.57%",
+        "year": 2007
+    },
+    {
+        "name": "The Brave One",
+        "audienceScore": 65.0,
+        "story": "Rivalry",
+        "worldwideGross": 69.79,
+        "marketProfitability": "99.70%",
+        "year": 2007
+    },
+    {
+        "name": "The Bucket List",
+        "audienceScore": 81.0,
+        "story": "discovery",
+        "worldwideGross": 174.31,
+        "marketProfitability": "387.36%",
+        "year": 2007
+    },
+    {
+        "name": "The Darjeeling Limited",
+        "audienceScore": 79.0,
+        "story": "Journey and Return",
+        "worldwideGross": 34.92,
+        "marketProfitability": "199.53%",
+        "year": 2007
+    },
+    {
+        "name": "The Game Plan",
+        "audienceScore": 75.0,
+        "story": "Discovery",
+        "worldwideGross": 147.87,
+        "marketProfitability": "672.13%",
+        "year": 2007
+    },
+    {
+        "name": "The Golden Compass",
+        "audienceScore": 55.0,
+        "story": "Rescue",
+        "worldwideGross": 372.23,
+        "marketProfitability": "206.80%",
+        "year": 2007
+    },
+    {
+        "name": "The Heartbreak Kid",
+        "audienceScore": 41.0,
+        "story": "Love",
+        "worldwideGross": 127.77,
+        "marketProfitability": "212.94%",
+        "year": 2007
+    },
+    {
+        "name": "The Hills Have Eyes 2",
+        "audienceScore": 50.0,
+        "story": "Monster Force",
+        "worldwideGross": 37.47,
+        "marketProfitability": "249.77%",
+        "year": 2007
+    },
+    {
+        "name": "The Invasion",
+        "audienceScore": 43.0,
+        "story": "Monster Force",
+        "worldwideGross": 40.17,
+        "marketProfitability": "50.21%",
+        "year": 2007
+    },
+    {
+        "name": "The Kingdom",
+        "audienceScore": 78.0,
+        "story": "Quest",
+        "worldwideGross": 86.61,
+        "marketProfitability": "108.26%",
+        "year": 2007
+    },
+    {
+        "name": "The Kite Runner",
+        "audienceScore": 85.0,
+        "story": "Maturation",
+        "worldwideGross": 73.19,
+        "marketProfitability": "365.97%",
+        "year": 2007
+    },
+    {
+        "name": "The Mist",
+        "audienceScore": 64.0,
+        "story": "Monster Force",
+        "worldwideGross": 56.83,
+        "marketProfitability": "315.72%",
+        "year": 2007
+    },
+    {
+        "name": "The Nanny Diaries",
+        "audienceScore": 52.0,
+        "story": "Discovery",
+        "worldwideGross": 47.0,
+        "marketProfitability": "235.00%",
+        "year": 2007
+    },
+    {
+        "name": "The Reaping",
+        "audienceScore": 53.0,
+        "story": "Quest",
+        "worldwideGross": 62.77,
+        "marketProfitability": "156.93%",
+        "year": 2007
+    },
+    {
+        "name": "The Simpsons Movie",
+        "audienceScore": 78.0,
+        "story": "Maturation",
+        "worldwideGross": 527.07,
+        "marketProfitability": "702.76%",
+        "year": 2007
+    },
+    {
+        "name": "There Will Be Blood",
+        "audienceScore": 84.0,
+        "story": "Wretched Excess",
+        "worldwideGross": 76.18,
+        "marketProfitability": "304.73%",
+        "year": 2007
+    },
+    {
+        "name": "TMNT",
+        "audienceScore": 63.0,
+        "story": "Monster Force",
+        "worldwideGross": 95.01,
+        "marketProfitability": "271.46%",
+        "year": 2007
+    },
+    {
+        "name": "Transformers",
+        "audienceScore": 89.0,
+        "story": "Monster Force",
+        "worldwideGross": 708.27,
+        "marketProfitability": "472.18%",
+        "year": 2007
+    },
+    {
+        "name": "Tyler Perry's Why Did I get Married",
+        "audienceScore": 47.0,
+        "story": "Love",
+        "worldwideGross": 55.86,
+        "marketProfitability": "372.42%",
+        "year": 2007
+    },
+    {
+        "name": "Vacancy",
+        "audienceScore": 46.0,
+        "story": "Pursuit",
+        "worldwideGross": 35.3,
+        "marketProfitability": "185.79%",
+        "year": 2007
+    },
+    {
+        "name": "Waitress",
+        "audienceScore": 67.0,
+        "story": "Love",
+        "worldwideGross": 22.18,
+        "marketProfitability": "1108.97%",
+        "year": 2007
+    },
+    {
+        "name": "Walk Hard: The Dewey Cox Story",
+        "audienceScore": 55.0,
+        "story": "Comedy",
+        "worldwideGross": 20.58,
+        "marketProfitability": "58.79%",
+        "year": 2007
+    },
+    {
+        "name": "We Own the Night",
+        "audienceScore": 63.0,
+        "story": "Sacrifice",
+        "worldwideGross": 54.83,
+        "marketProfitability": "261.08%",
+        "year": 2007
+    },
+    {
+        "name": "Wild Hogs",
+        "audienceScore": 72.0,
+        "story": "Transformation",
+        "worldwideGross": 253.63,
+        "marketProfitability": "281.81%",
+        "year": 2007
+    },
+    {
+        "name": "Zodiac",
+        "audienceScore": 73.0,
+        "story": "Pursuit",
+        "worldwideGross": 84.79,
+        "marketProfitability": "130.44%",
+        "year": 2007
+    },
+    {
+        "name": "10,000 B.C.",
+        "audienceScore": 44.0,
+        "story": "Rescue",
+        "worldwideGross": 269.1,
+        "marketProfitability": "256.94%",
+        "year": 2008
+    },
+    {
+        "name": "21",
+        "audienceScore": 73.0,
+        "story": "quest",
+        "worldwideGross": 157.9,
+        "marketProfitability": "451.00%",
+        "year": 2008
+    },
+    {
+        "name": "27 Dresses",
+        "audienceScore": 71.0,
+        "story": "Love",
+        "worldwideGross": 160.3,
+        "marketProfitability": "534.36%",
+        "year": 2008
+    },
+    {
+        "name": "88 Minutes",
+        "audienceScore": 51.0,
+        "story": "The Riddle",
+        "worldwideGross": 32310802.0,
+        "marketProfitability": "108.60%",
+        "year": 2008
+    },
+    {
+        "name": "Appaloosa",
+        "audienceScore": 55.0,
+        "story": "Rescue",
+        "worldwideGross": 25.9,
+        "marketProfitability": "137.95%",
+        "year": 2008
+    },
+    {
+        "name": "Australia",
+        "audienceScore": 69.0,
+        "story": "Fish Out of Water",
+        "worldwideGross": 129.4,
+        "marketProfitability": "267.30%",
+        "year": 2008
+    },
+    {
+        "name": "Baby Mama",
+        "audienceScore": 59.0,
+        "story": "Discovery",
+        "worldwideGross": 63.9,
+        "marketProfitability": "91.46%",
+        "year": 2008
+    },
+    {
+        "name": "Babylon A.D.",
+        "audienceScore": 32.0,
+        "story": "quest",
+        "worldwideGross": 70.6,
+        "marketProfitability": "156.03%",
+        "year": 2008
+    },
+    {
+        "name": "Bangkok Dangerous",
+        "audienceScore": 33.0,
+        "story": "pursuit",
+        "worldwideGross": 39.4,
+        "marketProfitability": "103.55%",
+        "year": 2008
+    },
+    {
+        "name": "Be Kind, Rewind",
+        "audienceScore": 57.0,
+        "story": "Comedy",
+        "worldwideGross": 29.3,
+        "marketProfitability": "152.88%",
+        "year": 2008
+    },
+    {
+        "name": "Bedtime Stories",
+        "audienceScore": 63.0,
+        "story": "rivalry",
+        "worldwideGross": 85.4,
+        "marketProfitability": "272.94%",
+        "year": 2008
+    },
+    {
+        "name": "Beverly Hills Chihuahua",
+        "audienceScore": 56.0,
+        "story": "Journey and Return",
+        "worldwideGross": 116.0,
+        "marketProfitability": "726.00%",
+        "year": 2008
+    },
+    {
+        "name": "Body of Lies",
+        "audienceScore": 65.0,
+        "story": "Temptation",
+        "worldwideGross": 17.5,
+        "marketProfitability": "170.21%",
+        "year": 2008
+    },
+    {
+        "name": "Bolt",
+        "audienceScore": 76.0,
+        "story": "rescue",
+        "worldwideGross": 289.3,
+        "marketProfitability": "203.88%",
+        "year": 2008
+    },
+    {
+        "name": "Burn After Reading",
+        "audienceScore": 64.0,
+        "story": "Comedy",
+        "worldwideGross": 154.8,
+        "marketProfitability": "442.47%",
+        "year": 2008
+    },
+    {
+        "name": "Changeling",
+        "audienceScore": 84.0,
+        "story": "quest",
+        "worldwideGross": 66.9,
+        "marketProfitability": "205.47%",
+        "year": 2008
+    },
+    {
+        "name": "Cloverfield",
+        "audienceScore": 67.0,
+        "story": "Monster Force",
+        "worldwideGross": 170.8,
+        "marketProfitability": "683.07%",
+        "year": 2008
+    },
+    {
+        "name": "College Road Trip",
+        "audienceScore": 56.0,
+        "story": "comedy",
+        "worldwideGross": 51.5,
+        "marketProfitability": "36.81%",
+        "year": 2008
+    },
+    {
+        "name": "Death Race",
+        "audienceScore": 69.0,
+        "story": "escape",
+        "worldwideGross": 73.8,
+        "marketProfitability": "167.68%",
+        "year": 2008
+    },
+    {
+        "name": "Definitely, Maybe",
+        "audienceScore": 72.0,
+        "story": "Discovery",
+        "worldwideGross": 55.0,
+        "marketProfitability": "788.76%",
+        "year": 2008
+    },
+    {
+        "name": "Disaster Movie",
+        "audienceScore": 28.0,
+        "story": "Rescue",
+        "worldwideGross": 34.5,
+        "marketProfitability": "174.05%",
+        "year": 2008
+    },
+    {
+        "name": "Doomsday",
+        "audienceScore": 47.0,
+        "story": "Quest",
+        "worldwideGross": 21.6,
+        "marketProfitability": "67.30%",
+        "year": 2008
+    },
+    {
+        "name": "Doubt",
+        "audienceScore": 75.0,
+        "story": "riddle",
+        "worldwideGross": 18.7,
+        "marketProfitability": "144.76%",
+        "year": 2008
+    },
+    {
+        "name": "Dr. Seuss' Horton Hears a Who!",
+        "audienceScore": 75.0,
+        "story": "rescue",
+        "worldwideGross": 297.0,
+        "marketProfitability": "349.56%",
+        "year": 2008
+    },
+    {
+        "name": "Drillbit Taylor",
+        "audienceScore": 49.0,
+        "story": "Comedy",
+        "worldwideGross": 49.7,
+        "marketProfitability": "124.21%",
+        "year": 2008
+    },
+    {
+        "name": "Eagle Eye",
+        "audienceScore": 72.0,
+        "story": "pursuit",
+        "worldwideGross": 175.9,
+        "marketProfitability": "222.25%",
+        "year": 2008
+    },
+    {
+        "name": "First Sunday",
+        "audienceScore": 59.0,
+        "story": "Comedy",
+        "worldwideGross": 38.8,
+        "marketProfitability": "298.48%",
+        "year": 2008
+    },
+    {
+        "name": "Fly Me to the Moon",
+        "audienceScore": 26.0,
+        "story": "Journey and Return",
+        "worldwideGross": 32.6,
+        "marketProfitability": "161.29%",
+        "year": 2008
+    },
+    {
+        "name": "Fool's Gold",
+        "audienceScore": 53.0,
+        "story": "Quest",
+        "worldwideGross": 110.6,
+        "marketProfitability": "150.84%",
+        "year": 2008
+    },
+    {
+        "name": "Forgetting Sarah Marshall",
+        "audienceScore": 75.0,
+        "story": "maturation",
+        "worldwideGross": 104.8,
+        "marketProfitability": "349.77%",
+        "year": 2008
+    },
+    {
+        "name": "Four Christmases",
+        "audienceScore": 52.0,
+        "story": "love",
+        "worldwideGross": 149.6,
+        "marketProfitability": "202.29%",
+        "year": 2008
+    },
+    {
+        "name": "Get Smart",
+        "audienceScore": 73.0,
+        "story": "Pursuit",
+        "worldwideGross": 230.5,
+        "marketProfitability": "288.36%",
+        "year": 2008
+    },
+    {
+        "name": "Ghost Town",
+        "audienceScore": 60.0,
+        "story": "transformation",
+        "worldwideGross": 24.0,
+        "marketProfitability": "134.80%",
+        "year": 2008
+    },
+    {
+        "name": "Hancock",
+        "audienceScore": 67.0,
+        "story": "Discovery",
+        "worldwideGross": 624.4,
+        "marketProfitability": "416.26%",
+        "year": 2008
+    },
+    {
+        "name": "Harold and Kumar Escape from Guantanamo Bay",
+        "audienceScore": 65.0,
+        "story": "escape",
+        "worldwideGross": 43.3,
+        "marketProfitability": "362.44%",
+        "year": 2008
+    },
+    {
+        "name": "Hellboy II: The Golden Army",
+        "audienceScore": 70.0,
+        "story": "sacrifice",
+        "worldwideGross": 158.9,
+        "marketProfitability": "194.17%",
+        "year": 2008
+    },
+    {
+        "name": "High School Musical 3: Senior Year",
+        "audienceScore": 76.0,
+        "story": "love",
+        "worldwideGross": 240.7,
+        "marketProfitability": "2291.31%",
+        "year": 2008
+    },
+    {
+        "name": "Igor",
+        "audienceScore": 42.0,
+        "story": "Temptation",
+        "worldwideGross": 27.6,
+        "marketProfitability": "102.21%",
+        "year": 2008
+    },
+    {
+        "name": "In Bruges",
+        "audienceScore": 85.0,
+        "story": "Fish Out of Water",
+        "worldwideGross": 32.0,
+        "marketProfitability": "222.63%",
+        "year": 2008
+    },
+    {
+        "name": "Indiana Jones and the Kingdom of the Crystal Skull",
+        "audienceScore": 59.0,
+        "story": "Pursuit",
+        "worldwideGross": 786.6,
+        "marketProfitability": "425.17%",
+        "year": 2008
+    },
+    {
+        "name": "Iron Man",
+        "audienceScore": 91.0,
+        "story": "Metamorphosis",
+        "worldwideGross": 581.9,
+        "marketProfitability": "314.56%",
+        "year": 2008
+    },
+    {
+        "name": "Journey to the Center of the Earth",
+        "audienceScore": 55.0,
+        "story": "Quest",
+        "worldwideGross": 220.7,
+        "marketProfitability": "537.77%",
+        "year": 2008
+    },
+    {
+        "name": "Jumper",
+        "audienceScore": 50.0,
+        "story": "Rescue",
+        "worldwideGross": 222.2,
+        "marketProfitability": "269.37%",
+        "year": 2008
+    },
+    {
+        "name": "Kit Kittredge: An American Girl",
+        "audienceScore": 26.0,
+        "story": "riddle",
+        "worldwideGross": 17.7,
+        "marketProfitability": "176.58%",
+        "year": 2008
+    },
+    {
+        "name": "Kung Fu Panda",
+        "audienceScore": 83.0,
+        "story": "Underdog",
+        "worldwideGross": 631.9,
+        "marketProfitability": "315.87%",
+        "year": 2008
+    },
+    {
+        "name": "Lakeview Terrace",
+        "audienceScore": 44.0,
+        "story": "rivalry",
+        "worldwideGross": 43.8,
+        "marketProfitability": "223.27%",
+        "year": 2008
+    },
+    {
+        "name": "Leatherheads",
+        "audienceScore": 41.0,
+        "story": "Rivalry",
+        "worldwideGross": 41.0,
+        "marketProfitability": "70.96%",
+        "year": 2008
+    },
+    {
+        "name": "Mad Money",
+        "audienceScore": 51.0,
+        "story": "Comedy",
+        "worldwideGross": 26.1,
+        "marketProfitability": "120.05%",
+        "year": 2008
+    },
+    {
+        "name": "Madagascar: Escape 2 Africa",
+        "audienceScore": 73.0,
+        "story": "Journey and Return",
+        "worldwideGross": 462.3,
+        "marketProfitability": "400.55%",
+        "year": 2008
+    },
+    {
+        "name": "Made of Honor",
+        "audienceScore": 61.0,
+        "story": "Love",
+        "worldwideGross": 106.0,
+        "marketProfitability": "264.91%",
+        "year": 2008
+    },
+    {
+        "name": "Mamma Mia!",
+        "audienceScore": 76.0,
+        "story": "Love",
+        "worldwideGross": 572.2,
+        "marketProfitability": "923.45%",
+        "year": 2008
+    },
+    {
+        "name": "Marley and Me",
+        "audienceScore": 77.0,
+        "story": "love",
+        "worldwideGross": 111.8,
+        "marketProfitability": "374.68%",
+        "year": 2008
+    },
+    {
+        "name": "Max Payne",
+        "audienceScore": 36.0,
+        "story": "Revenge",
+        "worldwideGross": 84.2,
+        "marketProfitability": "243.95%",
+        "year": 2008
+    },
+    {
+        "name": "Meet Dave",
+        "audienceScore": 42.0,
+        "story": "Fish Out of Water",
+        "worldwideGross": 50.5,
+        "marketProfitability": "84.42%",
+        "year": 2008
+    },
+    {
+        "name": "Meet the Spartans",
+        "audienceScore": 31.0,
+        "story": "comedy",
+        "worldwideGross": 84.6,
+        "marketProfitability": "282.16%",
+        "year": 2008
+    },
+    {
+        "name": "Mirrors",
+        "audienceScore": 49.0,
+        "story": "monster force",
+        "worldwideGross": 73.4,
+        "marketProfitability": "221.40%",
+        "year": 2008
+    },
+    {
+        "name": "My Best Friend's Girl",
+        "audienceScore": 51.0,
+        "story": "Comedy",
+        "worldwideGross": 36.2,
+        "marketProfitability": "208.11%",
+        "year": 2008
+    },
+    {
+        "name": "Never Back Down",
+        "audienceScore": 37.0,
+        "story": "Rivalry",
+        "worldwideGross": 41.6,
+        "marketProfitability": "198.22%",
+        "year": 2008
+    },
+    {
+        "name": "Nick and Norah's Infinite Playlist",
+        "audienceScore": 67.0,
+        "story": "Love",
+        "worldwideGross": 31.7,
+        "marketProfitability": "335.27%",
+        "year": 2008
+    },
+    {
+        "name": "Nights in Rodanthe",
+        "audienceScore": 56.0,
+        "story": "Discovery",
+        "worldwideGross": 75.7,
+        "marketProfitability": "264.12%",
+        "year": 2008
+    },
+    {
+        "name": "Nim's Island",
+        "audienceScore": 50.0,
+        "story": "rescue",
+        "worldwideGross": 99.9,
+        "marketProfitability": "270.48%",
+        "year": 2008
+    },
+    {
+        "name": "One Missed Call",
+        "audienceScore": 36.0,
+        "story": "Monster Force",
+        "worldwideGross": 44.5,
+        "marketProfitability": "222.55%",
+        "year": 2008
+    },
+    {
+        "name": "Over Her Dead Body",
+        "audienceScore": 47.0,
+        "story": "Love",
+        "worldwideGross": 20.9,
+        "marketProfitability": "207.10%",
+        "year": 2008
+    },
+    {
+        "name": "Penelope",
+        "audienceScore": 74.0,
+        "story": "love",
+        "worldwideGross": 20.8,
+        "marketProfitability": "138.28%",
+        "year": 2008
+    },
+    {
+        "name": "Pineapple Express",
+        "audienceScore": 74.0,
+        "story": "Comedy",
+        "worldwideGross": 101.5,
+        "marketProfitability": "390.86%",
+        "year": 2008
+    },
+    {
+        "name": "Pride & Glory",
+        "audienceScore": 54.0,
+        "story": "Temptation",
+        "worldwideGross": 23.8,
+        "marketProfitability": "103.83%",
+        "year": 2008
+    },
+    {
+        "name": "Prom Night",
+        "audienceScore": 46.0,
+        "story": "escape",
+        "worldwideGross": 57.2,
+        "marketProfitability": "317.72%",
+        "year": 2008
+    },
+    {
+        "name": "Quantum of Solace",
+        "audienceScore": 62.0,
+        "story": "Revenge",
+        "worldwideGross": 567.0,
+        "marketProfitability": "254.14%",
+        "year": 2008
+    },
+    {
+        "name": "Quarantine",
+        "audienceScore": 46.0,
+        "story": "Monster Force",
+        "worldwideGross": 37.2,
+        "marketProfitability": "344.27%",
+        "year": 2008
+    },
+    {
+        "name": "Rambo",
+        "audienceScore": 70.0,
+        "story": "Rescue",
+        "worldwideGross": 113.2,
+        "marketProfitability": "238.41%",
+        "year": 2008
+    },
+    {
+        "name": "Righteous Kill",
+        "audienceScore": 44.0,
+        "story": "The Riddle",
+        "worldwideGross": 74.0,
+        "marketProfitability": "130.75%",
+        "year": 2008
+    },
+    {
+        "name": "Role Models",
+        "audienceScore": 75.0,
+        "story": "Discovery",
+        "worldwideGross": 66.7,
+        "marketProfitability": "327.76%",
+        "year": 2008
+    },
+    {
+        "name": "Saw V",
+        "audienceScore": 63.0,
+        "story": "Monster Force",
+        "worldwideGross": 103.6,
+        "marketProfitability": "1054.29%",
+        "year": 2008
+    },
+    {
+        "name": "Semi-Pro",
+        "audienceScore": 41.0,
+        "story": "underdog",
+        "worldwideGross": 43.9,
+        "marketProfitability": "1687.87%",
+        "year": 2008
+    },
+    {
+        "name": "Seven Pounds",
+        "audienceScore": 77.0,
+        "story": "Sacrifice",
+        "worldwideGross": 61.4,
+        "marketProfitability": "287.72%",
+        "year": 2008
+    },
+    {
+        "name": "Sex and the City",
+        "audienceScore": 81.0,
+        "story": "love",
+        "worldwideGross": 415.1,
+        "marketProfitability": "722.18%",
+        "year": 2008
+    },
+    {
+        "name": "Shutter",
+        "audienceScore": 40.0,
+        "story": "Monster Force",
+        "worldwideGross": 47.8,
+        "marketProfitability": "598.48%",
+        "year": 2008
+    },
+    {
+        "name": "Slumdog Millionaire",
+        "audienceScore": 90.0,
+        "story": "Underdog",
+        "worldwideGross": 198.0,
+        "marketProfitability": "2505.27%",
+        "year": 2008
+    },
+    {
+        "name": "Space Chimps",
+        "audienceScore": 37.0,
+        "story": "Transformation",
+        "worldwideGross": 63.8,
+        "marketProfitability": "175.23%",
+        "year": 2008
+    },
+    {
+        "name": "Speed Racer",
+        "audienceScore": 61.0,
+        "story": "Quest",
+        "worldwideGross": 93.4,
+        "marketProfitability": "78.29%",
+        "year": 2008
+    },
+    {
+        "name": "Star Wars: The Clone Wars",
+        "audienceScore": 46.0,
+        "story": "sacrifice",
+        "worldwideGross": 65.6,
+        "marketProfitability": "803.32%",
+        "year": 2008
+    },
+    {
+        "name": "Step Brothers",
+        "audienceScore": 68.0,
+        "story": "Comedy",
+        "worldwideGross": 128.0,
+        "marketProfitability": "197.09%",
+        "year": 2008
+    },
+    {
+        "name": "Step Up 2: The Streets",
+        "audienceScore": 81.0,
+        "story": "underdog",
+        "worldwideGross": 148.2,
+        "marketProfitability": "861.80%",
+        "year": 2008
+    },
+    {
+        "name": "Street Kings",
+        "audienceScore": 62.0,
+        "story": "The Riddle",
+        "worldwideGross": 63.6,
+        "marketProfitability": "327.86%",
+        "year": 2008
+    },
+    {
+        "name": "Superhero Movie",
+        "audienceScore": 36.0,
+        "story": "Comedy",
+        "worldwideGross": 71.1,
+        "marketProfitability": "109.57%",
+        "year": 2008
+    },
+    {
+        "name": "Swing Vote",
+        "audienceScore": 44.0,
+        "story": "maturation",
+        "worldwideGross": 33.4,
+        "marketProfitability": "88.17%",
+        "year": 2008
+    },
+    {
+        "name": "The Bank Job",
+        "audienceScore": 74.0,
+        "story": "Quest",
+        "worldwideGross": 63.8,
+        "marketProfitability": "324.11%",
+        "year": 2008
+    },
+    {
+        "name": "The Boy in the Striped Pyjamas",
+        "audienceScore": 84.0,
+        "story": "Tragedy",
+        "worldwideGross": 33.0,
+        "marketProfitability": "320.60%",
+        "year": 2008
+    },
+    {
+        "name": "The Chronicles of Narnia: Prince Caspian",
+        "audienceScore": 78.0,
+        "story": "fish out of water",
+        "worldwideGross": 419.6,
+        "marketProfitability": "209.83%",
+        "year": 2008
+    },
+    {
+        "name": "The Curious Case of Benjamin Button",
+        "audienceScore": 81.0,
+        "story": "love",
+        "worldwideGross": 322.0,
+        "marketProfitability": "178.39%",
+        "year": 2008
+    },
+    {
+        "name": "The Dark Knight",
+        "audienceScore": 96.0,
+        "story": "Revenge",
+        "worldwideGross": 996.9,
+        "marketProfitability": "540.27%",
+        "year": 2008
+    },
+    {
+        "name": "The Day the Earth Stood Still ",
+        "audienceScore": 34.0,
+        "story": "Sacrifice",
+        "worldwideGross": 230.0,
+        "marketProfitability": "228.03%",
+        "year": 2008
+    },
+    {
+        "name": "The Duchess",
+        "audienceScore": 68.0,
+        "story": "Love",
+        "worldwideGross": 34.3,
+        "marketProfitability": "320.79%",
+        "year": 2008
+    },
+    {
+        "name": "The Eye",
+        "audienceScore": 51.0,
+        "story": "Sacrifice",
+        "worldwideGross": 56.8,
+        "marketProfitability": "474.70%",
+        "year": 2008
+    },
+    {
+        "name": "The Forbidden Kingdom",
+        "audienceScore": 65.0,
+        "story": "journey & return",
+        "worldwideGross": 128.8,
+        "marketProfitability": "232.69%",
+        "year": 2008
+    },
+    {
+        "name": "The Happening",
+        "audienceScore": 29.0,
+        "story": "escape",
+        "worldwideGross": 163.4,
+        "marketProfitability": "340.41%",
+        "year": 2008
+    },
+    {
+        "name": "The House Bunny",
+        "audienceScore": 54.0,
+        "story": "Discovery",
+        "worldwideGross": 70.0,
+        "marketProfitability": "281.75%",
+        "year": 2008
+    },
+    {
+        "name": "The Incredible Hulk",
+        "audienceScore": 75.0,
+        "story": "Metamorphosis",
+        "worldwideGross": 262.5,
+        "marketProfitability": "191.38%",
+        "year": 2008
+    },
+    {
+        "name": "The Love Guru",
+        "audienceScore": 38.0,
+        "story": "Comedy",
+        "worldwideGross": 40.8,
+        "marketProfitability": "65.85%",
+        "year": 2008
+    },
+    {
+        "name": "The Mummy: Tomb of the Dragon Emperor",
+        "audienceScore": 40.0,
+        "story": "Quest",
+        "worldwideGross": 393.2,
+        "marketProfitability": "276.49%",
+        "year": 2008
+    },
+    {
+        "name": "The Other Boleyn Girl",
+        "audienceScore": 65.0,
+        "story": "tragedy",
+        "worldwideGross": 77.2,
+        "marketProfitability": "194.28%",
+        "year": 2008
+    },
+    {
+        "name": "The Ruins",
+        "audienceScore": 32.0,
+        "story": "rescue",
+        "worldwideGross": 22.6,
+        "marketProfitability": "90.91%",
+        "year": 2008
+    },
+    {
+        "name": "The Secret Life of Bees",
+        "audienceScore": 78.0,
+        "story": "Maturation",
+        "worldwideGross": 37.8,
+        "marketProfitability": "360.10%",
+        "year": 2008
+    },
+    {
+        "name": "The Sisterhood of the Traveling Pants 2",
+        "audienceScore": 67.0,
+        "story": "Journey and Return",
+        "worldwideGross": 44.2,
+        "marketProfitability": "164.26%",
+        "year": 2008
+    },
+    {
+        "name": "The Spiderwick Chronicles",
+        "audienceScore": 67.0,
+        "story": "fish out of water",
+        "worldwideGross": 162.8,
+        "marketProfitability": "176.04%",
+        "year": 2008
+    },
+    {
+        "name": "The Spirit",
+        "audienceScore": 29.0,
+        "story": "rivalry",
+        "worldwideGross": 21.5,
+        "marketProfitability": "616.32%",
+        "year": 2008
+    },
+    {
+        "name": "The Strangers",
+        "audienceScore": 48.0,
+        "story": "Escape",
+        "worldwideGross": 77.6,
+        "marketProfitability": "915.45%",
+        "year": 2008
+    },
+    {
+        "name": "The Women",
+        "audienceScore": 41.0,
+        "story": "Transformation",
+        "worldwideGross": 46.1,
+        "marketProfitability": "312.54%",
+        "year": 2008
+    },
+    {
+        "name": "The X-Files: I Want to Believe",
+        "audienceScore": 34.0,
+        "story": "monster force",
+        "worldwideGross": 68.3,
+        "marketProfitability": "195.34%",
+        "year": 2008
+    },
+    {
+        "name": "Traitor",
+        "audienceScore": 66.0,
+        "story": "Pursuit",
+        "worldwideGross": 25.3,
+        "marketProfitability": "125.74%",
+        "year": 2008
+    },
+    {
+        "name": "Transporter 3",
+        "audienceScore": 58.0,
+        "story": "escape",
+        "worldwideGross": 60.9,
+        "marketProfitability": "363.26%",
+        "year": 2008
+    },
+    {
+        "name": "Tropic Thunder",
+        "audienceScore": 69.0,
+        "story": "fish out of water",
+        "worldwideGross": 188.0,
+        "marketProfitability": "208.93%",
+        "year": 2008
+    },
+    {
+        "name": "Twilight",
+        "audienceScore": 82.0,
+        "story": "Love",
+        "worldwideGross": 246.5,
+        "marketProfitability": "1018.00%",
+        "year": 2008
+    },
+    {
+        "name": "Under the Same Moon",
+        "audienceScore": 37.0,
+        "story": "Quest",
+        "worldwideGross": 23.0,
+        "marketProfitability": "1371.19%",
+        "year": 2008
+    },
+    {
+        "name": "Untraceable",
+        "audienceScore": 56.0,
+        "story": "riddle",
+        "worldwideGross": 52.5,
+        "marketProfitability": "150.45%",
+        "year": 2008
+    },
+    {
+        "name": "Valkyrie",
+        "audienceScore": 66.0,
+        "story": "Sacrifice",
+        "worldwideGross": 184.0,
+        "marketProfitability": "267.03%",
+        "year": 2008
+    },
+    {
+        "name": "Vantage Point",
+        "audienceScore": 61.0,
+        "story": "The Riddle",
+        "worldwideGross": 151.2,
+        "marketProfitability": "377.89%",
+        "year": 2008
+    },
+    {
+        "name": "Vicky Cristina Barcelona",
+        "audienceScore": 73.0,
+        "story": "temptation",
+        "worldwideGross": 77.2,
+        "marketProfitability": "600.16%",
+        "year": 2008
+    },
+    {
+        "name": "W.",
+        "audienceScore": 42.0,
+        "story": "rivalry",
+        "worldwideGross": 29.0,
+        "marketProfitability": "117.55%",
+        "year": 2008
+    },
+    {
+        "name": "WALL-E",
+        "audienceScore": 89.0,
+        "story": "love",
+        "worldwideGross": 507.3,
+        "marketProfitability": "289.60%",
+        "year": 2008
+    },
+    {
+        "name": "Wanted",
+        "audienceScore": 72.0,
+        "story": "Transformation",
+        "worldwideGross": 342.1,
+        "marketProfitability": "455.00%",
+        "year": 2008
+    },
+    {
+        "name": "Welcome Home, Roscoe Jenkins",
+        "audienceScore": 64.0,
+        "story": "discovery",
+        "worldwideGross": 43.4,
+        "marketProfitability": "124.01%",
+        "year": 2008
+    },
+    {
+        "name": "What Happens in Vegas",
+        "audienceScore": 72.0,
+        "story": "Love",
+        "worldwideGross": 219.3,
+        "marketProfitability": "626.76%",
+        "year": 2008
+    },
+    {
+        "name": "Yes Man",
+        "audienceScore": 72.0,
+        "story": "Transformation",
+        "worldwideGross": 113.4,
+        "marketProfitability": "318.91%",
+        "year": 2008
+    },
+    {
+        "name": "You Don't Mess with the Zohan",
+        "audienceScore": 50.0,
+        "story": "fish out of water",
+        "worldwideGross": 201.8,
+        "marketProfitability": "249.91%",
+        "year": 2008
+    },
+    {
+        "name": "Zack and Miri Make a Porno",
+        "audienceScore": 70.0,
+        "story": "Love",
+        "worldwideGross": 36.6,
+        "marketProfitability": "174.75%",
+        "year": 2008
+    },
+    {
+        "name": "Average",
+        "audienceScore": 58.0,
+        "story": null,
+        "worldwideGross": 166.42,
+        "marketProfitability": "307.64%",
+        "year": 2009
+    },
+    {
+        "name": "9",
+        "audienceScore": 58.0,
+        "story": "Sacrifice",
+        "worldwideGross": 48.41,
+        "marketProfitability": "161.37%",
+        "year": 2009
+    },
+    {
+        "name": "2012",
+        "audienceScore": 63.0,
+        "story": "Escape",
+        "worldwideGross": 768.0,
+        "marketProfitability": "384.00%",
+        "year": 2009
+    },
+    {
+        "name": "(500) Days of Summer ",
+        "audienceScore": 81.0,
+        "story": "Love",
+        "worldwideGross": 60.72,
+        "marketProfitability": "809.60%",
+        "year": 2009
+    },
+    {
+        "name": "12 Rounds ",
+        "audienceScore": 52.0,
+        "story": "Rescue",
+        "worldwideGross": 18.17,
+        "marketProfitability": "90.85%",
+        "year": 2009
+    },
+    {
+        "name": "17 Again ",
+        "audienceScore": 70.0,
+        "story": "Maturation",
+        "worldwideGross": 136.3,
+        "marketProfitability": "681.50%",
+        "year": 2009
+    },
+    {
+        "name": "A Christmas Carol",
+        "audienceScore": 72.0,
+        "story": "Transformation",
+        "worldwideGross": 325.33,
+        "marketProfitability": "162.67%",
+        "year": 2009
+    },
+    {
+        "name": "A Perfect Getaway ",
+        "audienceScore": 50.0,
+        "story": "Escape",
+        "worldwideGross": 22.83,
+        "marketProfitability": "163.07%",
+        "year": 2009
+    },
+    {
+        "name": "A Serious Man ",
+        "audienceScore": 64.0,
+        "story": "Love",
+        "worldwideGross": 30.68,
+        "marketProfitability": "438.29%",
+        "year": 2009
+    },
+    {
+        "name": "Adventureland ",
+        "audienceScore": 56.0,
+        "story": "Maturation",
+        "worldwideGross": 17.14,
+        "marketProfitability": "174.90%",
+        "year": 2009
+    },
+    {
+        "name": "Aliens in the Attic ",
+        "audienceScore": 46.0,
+        "story": "Monster Force",
+        "worldwideGross": 57.88,
+        "marketProfitability": "128.62%",
+        "year": 2009
+    },
+    {
+        "name": "All About Steve ",
+        "audienceScore": 35.0,
+        "story": "Comedy",
+        "worldwideGross": 40.12,
+        "marketProfitability": "267.47%",
+        "year": 2009
+    },
+    {
+        "name": "Alvin and the Chipmunks: The Squeakquel ",
+        "audienceScore": 59.0,
+        "story": "Comedy",
+        "worldwideGross": 440.7,
+        "marketProfitability": "587.60%",
+        "year": 2009
+    },
+    {
+        "name": "Amelia ",
+        "audienceScore": 35.0,
+        "story": "Quest",
+        "worldwideGross": 19.2,
+        "marketProfitability": "48.00%",
+        "year": 2009
+    },
+    {
+        "name": "An Education",
+        "audienceScore": 78.0,
+        "story": "Maturation",
+        "worldwideGross": 26.09,
+        "marketProfitability": "347.87%",
+        "year": 2009
+    },
+    {
+        "name": "Angels & Demons ",
+        "audienceScore": 65.0,
+        "story": "The Riddle",
+        "worldwideGross": 485.9,
+        "marketProfitability": "323.93%",
+        "year": 2009
+    },
+    {
+        "name": "Armored ",
+        "audienceScore": 34.0,
+        "story": "Temptation",
+        "worldwideGross": 16.0,
+        "marketProfitability": "80.00%",
+        "year": 2009
+    },
+    {
+        "name": "Astro Boy ",
+        "audienceScore": 53.0,
+        "story": "Quest",
+        "worldwideGross": 44.09,
+        "marketProfitability": "67.83%",
+        "year": 2009
+    },
+    {
+        "name": "Away We Go ",
+        "audienceScore": 74.0,
+        "story": "Discovery",
+        "worldwideGross": 14.89,
+        "marketProfitability": "70.90%",
+        "year": 2009
+    },
+    {
+        "name": "Bandslam ",
+        "audienceScore": 60.0,
+        "story": "Maturation",
+        "worldwideGross": 12.1,
+        "marketProfitability": "61.00%",
+        "year": 2009
+    },
+    {
+        "name": "Bride Wars ",
+        "audienceScore": 56.0,
+        "story": "Comedy",
+        "worldwideGross": 115.15,
+        "marketProfitability": "383.83%",
+        "year": 2009
+    },
+    {
+        "name": "Brothers ",
+        "audienceScore": 62.0,
+        "story": "Transformation",
+        "worldwideGross": 43.27,
+        "marketProfitability": "166.42%",
+        "year": 2009
+    },
+    {
+        "name": "Bruno ",
+        "audienceScore": 48.0,
+        "story": "Comedy",
+        "worldwideGross": 130.8,
+        "marketProfitability": "311.43%",
+        "year": 2009
+    },
+    {
+        "name": "Cirque du Freak: The Vampire's Assistant ",
+        "audienceScore": 50.0,
+        "story": "Discovery",
+        "worldwideGross": 34.36,
+        "marketProfitability": "85.90%",
+        "year": 2009
+    },
+    {
+        "name": "Cloudy with a Chance of Meatballs ",
+        "audienceScore": 70.0,
+        "story": "Comedy",
+        "worldwideGross": 243.03,
+        "marketProfitability": "243.03%",
+        "year": 2009
+    },
+    {
+        "name": "Confessions of a Shopaholic ",
+        "audienceScore": 53.0,
+        "story": "Comedy",
+        "worldwideGross": 108.3,
+        "marketProfitability": "155.00%",
+        "year": 2009
+    },
+    {
+        "name": "Coraline ",
+        "audienceScore": 77.0,
+        "story": "Journey and Return",
+        "worldwideGross": 124.58,
+        "marketProfitability": "207.63%",
+        "year": 2009
+    },
+    {
+        "name": "Couples Retreat ",
+        "audienceScore": 47.0,
+        "story": "Comedy",
+        "worldwideGross": 171.83,
+        "marketProfitability": "286.38%",
+        "year": 2009
+    },
+    {
+        "name": "Crank: High Voltage ",
+        "audienceScore": 54.0,
+        "story": "Pursuit\n",
+        "worldwideGross": 34.5,
+        "marketProfitability": "267.44%",
+        "year": 2009
+    },
+    {
+        "name": "Dance Flick ",
+        "audienceScore": 35.0,
+        "story": "Comedy",
+        "worldwideGross": 31.43,
+        "marketProfitability": "125.72%",
+        "year": 2009
+    },
+    {
+        "name": "Did You Hear About the Morgans? ",
+        "audienceScore": 31.0,
+        "story": "Comedy",
+        "worldwideGross": 85.28,
+        "marketProfitability": "147.03%",
+        "year": 2009
+    },
+    {
+        "name": "District 9 ",
+        "audienceScore": 81.0,
+        "story": "Metamorphosis",
+        "worldwideGross": 210.77,
+        "marketProfitability": "702.57%",
+        "year": 2009
+    },
+    {
+        "name": "Drag Me to Hell ",
+        "audienceScore": 61.0,
+        "story": "Monster Force",
+        "worldwideGross": 90.8,
+        "marketProfitability": "302.67%",
+        "year": 2009
+    },
+    {
+        "name": "Dragonball Evolution ",
+        "audienceScore": 28.0,
+        "story": "Quest",
+        "worldwideGross": 58.23,
+        "marketProfitability": "194.10%",
+        "year": 2009
+    },
+    {
+        "name": "Duplicity ",
+        "audienceScore": 38.0,
+        "story": "Rivalry",
+        "worldwideGross": 78.14,
+        "marketProfitability": "130.23%",
+        "year": 2009
+    },
+    {
+        "name": "Everybody's Fine ",
+        "audienceScore": 55.0,
+        "story": "Discovery",
+        "worldwideGross": 16.4,
+        "marketProfitability": "78.10%",
+        "year": 2009
+    },
+    {
+        "name": "Extract ",
+        "audienceScore": 37.0,
+        "story": "Comedy",
+        "worldwideGross": 10.83,
+        "marketProfitability": "144.33%",
+        "year": 2009
+    },
+    {
+        "name": "Fame",
+        "audienceScore": 43.0,
+        "story": "Maturation",
+        "worldwideGross": 78.0,
+        "marketProfitability": "433.33%",
+        "year": 2009
+    },
+    {
+        "name": "Fantastic Mr. Fox ",
+        "audienceScore": 80.0,
+        "story": "Rivalry",
+        "worldwideGross": 46.46,
+        "marketProfitability": "116.15%",
+        "year": 2009
+    },
+    {
+        "name": "Fast and Furious ",
+        "audienceScore": 76.0,
+        "story": "Revenge",
+        "worldwideGross": 363.1,
+        "marketProfitability": "427.18%",
+        "year": 2009
+    },
+    {
+        "name": "Fired Up! ",
+        "audienceScore": 52.0,
+        "story": "Comedy",
+        "worldwideGross": 18.6,
+        "marketProfitability": "93.00%",
+        "year": 2009
+    },
+    {
+        "name": "Friday the 13th",
+        "audienceScore": 52.0,
+        "story": "Monster Force",
+        "worldwideGross": 91.4,
+        "marketProfitability": "481.05%",
+        "year": 2009
+    },
+    {
+        "name": "Funny People ",
+        "audienceScore": 58.0,
+        "story": "Transformation",
+        "worldwideGross": 71.58,
+        "marketProfitability": "95.44%",
+        "year": 2009
+    },
+    {
+        "name": "G-Force ",
+        "audienceScore": 50.0,
+        "story": "Comedy",
+        "worldwideGross": 285.1,
+        "marketProfitability": "190.07%",
+        "year": 2009
+    },
+    {
+        "name": "G.I. Joe: The Rise of Cobra ",
+        "audienceScore": 62.0,
+        "story": "Pursuit",
+        "worldwideGross": 302.1,
+        "marketProfitability": "172.63%",
+        "year": 2009
+    },
+    {
+        "name": "Gamer ",
+        "audienceScore": 43.0,
+        "story": "Revenge",
+        "worldwideGross": 40.82,
+        "marketProfitability": "326.56%",
+        "year": 2009
+    },
+    {
+        "name": "Ghosts of Girlfriends Past ",
+        "audienceScore": 47.0,
+        "story": "Love",
+        "worldwideGross": 102.22,
+        "marketProfitability": "204.44%",
+        "year": 2009
+    },
+    {
+        "name": "Halloween II",
+        "audienceScore": 45.0,
+        "story": "Escape",
+        "worldwideGross": 39.41,
+        "marketProfitability": "262.73%",
+        "year": 2009
+    },
+    {
+        "name": "Hannah Montana: The Movie ",
+        "audienceScore": 66.0,
+        "story": "Maturation",
+        "worldwideGross": 150.1,
+        "marketProfitability": "428.86%",
+        "year": 2009
+    },
+    {
+        "name": "Harry Potter and the Half-Blood Prince ",
+        "audienceScore": 75.0,
+        "story": "Quest",
+        "worldwideGross": 934.0,
+        "marketProfitability": "373.60%",
+        "year": 2009
+    },
+    {
+        "name": "He's Just Not That Into You ",
+        "audienceScore": 60.0,
+        "story": "Love",
+        "worldwideGross": 178.84,
+        "marketProfitability": "715.36%",
+        "year": 2009
+    },
+    {
+        "name": "Hotel for Dogs ",
+        "audienceScore": 57.0,
+        "story": "Comedy",
+        "worldwideGross": 118.2,
+        "marketProfitability": "337.71%",
+        "year": 2009
+    },
+    {
+        "name": "I Love You Beth Cooper ",
+        "audienceScore": 38.0,
+        "story": "Comedy",
+        "worldwideGross": 16.38,
+        "marketProfitability": "91.00%",
+        "year": 2009
+    },
+    {
+        "name": "I Love You, Man ",
+        "audienceScore": 72.0,
+        "story": "Comedy",
+        "worldwideGross": 91.4,
+        "marketProfitability": "228.50%",
+        "year": 2009
+    },
+    {
+        "name": "Ice Age: Dawn of the Dinosaurs ",
+        "audienceScore": 72.0,
+        "story": "Quest",
+        "worldwideGross": 886.68,
+        "marketProfitability": "985.20%",
+        "year": 2009
+    },
+    {
+        "name": "Imagine That ",
+        "audienceScore": 44.0,
+        "story": "Comedy",
+        "worldwideGross": 22.99,
+        "marketProfitability": "41.80%",
+        "year": 2009
+    },
+    {
+        "name": "Inglourious Basterds ",
+        "audienceScore": 87.0,
+        "story": "Underdog",
+        "worldwideGross": 321.41,
+        "marketProfitability": "459.16%",
+        "year": 2009
+    },
+    {
+        "name": "Inkheart ",
+        "audienceScore": 51.0,
+        "story": "Quest",
+        "worldwideGross": 62.44,
+        "marketProfitability": "104.07%",
+        "year": 2009
+    },
+    {
+        "name": "Invictus",
+        "audienceScore": 74.0,
+        "story": "Underdog",
+        "worldwideGross": 122.23,
+        "marketProfitability": "203.72%",
+        "year": 2009
+    },
+    {
+        "name": "It's Complicated ",
+        "audienceScore": 63.0,
+        "story": "Love",
+        "worldwideGross": 224.6,
+        "marketProfitability": "264.24%",
+        "year": 2009
+    },
+    {
+        "name": "Jennifer's Body ",
+        "audienceScore": 37.0,
+        "story": "Monster Force",
+        "worldwideGross": 31.55,
+        "marketProfitability": "197.19%",
+        "year": 2009
+    },
+    {
+        "name": "Julie & Julia ",
+        "audienceScore": 69.0,
+        "story": "Underdog",
+        "worldwideGross": 126.64,
+        "marketProfitability": "316.60%",
+        "year": 2009
+    },
+    {
+        "name": "Knowing ",
+        "audienceScore": 50.0,
+        "story": "Escape",
+        "worldwideGross": 183.58,
+        "marketProfitability": "367.16%",
+        "year": 2009
+    },
+    {
+        "name": "Land of the Lost ",
+        "audienceScore": 38.0,
+        "story": "Journey and Return",
+        "worldwideGross": 69.54,
+        "marketProfitability": "69.54%",
+        "year": 2009
+    },
+    {
+        "name": "Law Abiding Citizen ",
+        "audienceScore": 77.0,
+        "story": "Revenge",
+        "worldwideGross": 126.48,
+        "marketProfitability": "238.64%",
+        "year": 2009
+    },
+    {
+        "name": "Love Happens ",
+        "audienceScore": 40.0,
+        "story": "Love",
+        "worldwideGross": 36.08,
+        "marketProfitability": "200.44%",
+        "year": 2009
+    },
+    {
+        "name": "Michael Jackson's This Is It ",
+        "audienceScore": 82.0,
+        "story": "Tragedy",
+        "worldwideGross": 252.1,
+        "marketProfitability": "420.17%",
+        "year": 2009
+    },
+    {
+        "name": "Monsters Vs. Aliens ",
+        "audienceScore": 65.0,
+        "story": "Monster Force",
+        "worldwideGross": 381.5,
+        "marketProfitability": "218.00%",
+        "year": 2009
+    },
+    {
+        "name": "My Bloody Valentine 3-D ",
+        "audienceScore": 48.0,
+        "story": "Pursuit",
+        "worldwideGross": 102.74,
+        "marketProfitability": "733.86%",
+        "year": 2009
+    },
+    {
+        "name": "My Life in Ruins ",
+        "audienceScore": 43.0,
+        "story": "Comedy",
+        "worldwideGross": 18.01,
+        "marketProfitability": "106.00%",
+        "year": 2009
+    },
+    {
+        "name": "My Sister's Keeper ",
+        "audienceScore": 73.0,
+        "story": "Escape",
+        "worldwideGross": 89.05,
+        "marketProfitability": "323.82%",
+        "year": 2009
+    },
+    {
+        "name": "Next Day Air ",
+        "audienceScore": 27.0,
+        "story": "Comedy",
+        "worldwideGross": 10.0,
+        "marketProfitability": "333.33%",
+        "year": 2009
+    },
+    {
+        "name": "Night at the Museum: Battle of the Smithsonian ",
+        "audienceScore": 60.0,
+        "story": "Quest",
+        "worldwideGross": 413.0,
+        "marketProfitability": "275.33%",
+        "year": 2009
+    },
+    {
+        "name": "Nine ",
+        "audienceScore": 40.0,
+        "story": "Discovery",
+        "worldwideGross": 53.99,
+        "marketProfitability": "67.49%",
+        "year": 2009
+    },
+    {
+        "name": "Ninja Assassin ",
+        "audienceScore": 57.0,
+        "story": "Revenge",
+        "worldwideGross": 61.59,
+        "marketProfitability": "123.18%",
+        "year": 2009
+    },
+    {
+        "name": "Not Easily Broken ",
+        "audienceScore": 66.0,
+        "story": "Love",
+        "worldwideGross": 10.7,
+        "marketProfitability": "214.00%",
+        "year": 2009
+    },
+    {
+        "name": "Notorious",
+        "audienceScore": 66.0,
+        "story": "Tragedy ",
+        "worldwideGross": 44.36,
+        "marketProfitability": "221.80%",
+        "year": 2009
+    },
+    {
+        "name": "Observe and Report ",
+        "audienceScore": 40.0,
+        "story": "Comedy",
+        "worldwideGross": 26.96,
+        "marketProfitability": "149.78%",
+        "year": 2009
+    },
+    {
+        "name": "Obsessed ",
+        "audienceScore": 50.0,
+        "story": "Rivalry",
+        "worldwideGross": 73.82,
+        "marketProfitability": "369.10%",
+        "year": 2009
+    },
+    {
+        "name": "Old Dogs ",
+        "audienceScore": 49.0,
+        "story": "Comedy",
+        "worldwideGross": 96.75,
+        "marketProfitability": "276.43%",
+        "year": 2009
+    },
+    {
+        "name": "Orphan ",
+        "audienceScore": 65.0,
+        "story": "Escape",
+        "worldwideGross": 78.33,
+        "marketProfitability": "261.10%",
+        "year": 2009
+    },
+    {
+        "name": "Pandorum ",
+        "audienceScore": 49.0,
+        "story": "Monster Force",
+        "worldwideGross": 17.0,
+        "marketProfitability": "42.50%",
+        "year": 2009
+    },
+    {
+        "name": "Paranormal Activity ",
+        "audienceScore": 56.0,
+        "story": "Monster Force",
+        "worldwideGross": 196.68,
+        "marketProfitability": "1311200.00%",
+        "year": 2009
+    },
+    {
+        "name": "Paul Blart: Mall Cop ",
+        "audienceScore": 50.0,
+        "story": "Comedy",
+        "worldwideGross": 183.28,
+        "marketProfitability": "704.92%",
+        "year": 2009
+    },
+    {
+        "name": "Pirate Radio (The Boat that Rocked, UK)",
+        "audienceScore": 72.0,
+        "story": "Comedy",
+        "worldwideGross": 36.34,
+        "marketProfitability": "72.68%",
+        "year": 2009
+    },
+    {
+        "name": "Planet 51 ",
+        "audienceScore": 45.0,
+        "story": "Comedy",
+        "worldwideGross": 105.64,
+        "marketProfitability": "150.91%",
+        "year": 2009
+    },
+    {
+        "name": "Post Grad ",
+        "audienceScore": 31.0,
+        "story": "Maturation",
+        "worldwideGross": 6.38,
+        "marketProfitability": "42.53%",
+        "year": 2009
+    },
+    {
+        "name": "Public Enemies ",
+        "audienceScore": 65.0,
+        "story": "Underdog",
+        "worldwideGross": 214.1,
+        "marketProfitability": "214.10%",
+        "year": 2009
+    },
+    {
+        "name": "Push ",
+        "audienceScore": 47.0,
+        "story": "Quest",
+        "worldwideGross": 48.85,
+        "marketProfitability": "128.55%",
+        "year": 2009
+    },
+    {
+        "name": "Race to Witch Mountain ",
+        "audienceScore": 50.0,
+        "story": "Quest",
+        "worldwideGross": 106.38,
+        "marketProfitability": "212.76%",
+        "year": 2009
+    },
+    {
+        "name": "Saw VI ",
+        "audienceScore": 67.0,
+        "story": "Escape",
+        "worldwideGross": 68.19,
+        "marketProfitability": "619.91%",
+        "year": 2009
+    },
+    {
+        "name": "Sherlock Holmes ",
+        "audienceScore": 81.0,
+        "story": "The Riddle",
+        "worldwideGross": 524.02,
+        "marketProfitability": "582.24%",
+        "year": 2009
+    },
+    {
+        "name": "Sorority Row ",
+        "audienceScore": 38.0,
+        "story": "Pursuit",
+        "worldwideGross": 27.21,
+        "marketProfitability": "217.68%",
+        "year": 2009
+    },
+    {
+        "name": "Star Trek ",
+        "audienceScore": 91.0,
+        "story": "Revenge",
+        "worldwideGross": 385.65,
+        "marketProfitability": "275.46%",
+        "year": 2009
+    },
+    {
+        "name": "State of Play ",
+        "audienceScore": 71.0,
+        "story": "The Riddle",
+        "worldwideGross": 88.3,
+        "marketProfitability": "147.00%",
+        "year": 2009
+    },
+    {
+        "name": "Street Fighter: The Legend of Chun-Li ",
+        "audienceScore": 28.0,
+        "story": "Revenge",
+        "worldwideGross": 12.34,
+        "marketProfitability": "24.68%",
+        "year": 2009
+    },
+    {
+        "name": "Sunshine Cleaning ",
+        "audienceScore": 59.0,
+        "story": "Transformation",
+        "worldwideGross": 16.57,
+        "marketProfitability": "331.40%",
+        "year": 2009
+    },
+    {
+        "name": "Surrogates ",
+        "audienceScore": 42.0,
+        "story": "Pursuit",
+        "worldwideGross": 122.43,
+        "marketProfitability": "153.04%",
+        "year": 2009
+    },
+    {
+        "name": "Taken ",
+        "audienceScore": 83.0,
+        "story": "Pursuit",
+        "worldwideGross": 226.8,
+        "marketProfitability": "907.20%",
+        "year": 2009
+    },
+    {
+        "name": "Taking Woodstock ",
+        "audienceScore": 48.0,
+        "story": "Quest",
+        "worldwideGross": 10.0,
+        "marketProfitability": "34.48%",
+        "year": 2009
+    },
+    {
+        "name": "Terminator Salvation ",
+        "audienceScore": 64.0,
+        "story": "Monster Force",
+        "worldwideGross": 372.0,
+        "marketProfitability": "186.00%",
+        "year": 2009
+    },
+    {
+        "name": "The Blind Side ",
+        "audienceScore": 90.0,
+        "story": "Rags To Riches",
+        "worldwideGross": 309.04,
+        "marketProfitability": "1065.66%",
+        "year": 2009
+    },
+    {
+        "name": "The Box ",
+        "audienceScore": 27.0,
+        "story": "Temptation",
+        "worldwideGross": 33.38,
+        "marketProfitability": "111.27%",
+        "year": 2009
+    },
+    {
+        "name": "The Final Destination ",
+        "audienceScore": 52.0,
+        "story": "Escape",
+        "worldwideGross": 185.8,
+        "marketProfitability": "464.50%",
+        "year": 2009
+    },
+    {
+        "name": "The Fourth Kind ",
+        "audienceScore": 44.0,
+        "story": "Monster Force",
+        "worldwideGross": 47.7,
+        "marketProfitability": "477.00%",
+        "year": 2009
+    },
+    {
+        "name": "The Hangover ",
+        "audienceScore": 87.0,
+        "story": "Comedy",
+        "worldwideGross": 467.46,
+        "marketProfitability": "1335.60%",
+        "year": 2009
+    },
+    {
+        "name": "The Haunting in Connecticut ",
+        "audienceScore": 51.0,
+        "story": "Monster Force",
+        "worldwideGross": 77.52,
+        "marketProfitability": "258.40%",
+        "year": 2009
+    },
+    {
+        "name": "The Hurt Locker ",
+        "audienceScore": 83.0,
+        "story": "Quest",
+        "worldwideGross": 49.22,
+        "marketProfitability": "328.13%",
+        "year": 2009
+    },
+    {
+        "name": "The Informant! ",
+        "audienceScore": 42.0,
+        "story": "Comedy",
+        "worldwideGross": 41.76,
+        "marketProfitability": "189.82%",
+        "year": 2009
+    },
+    {
+        "name": "The International ",
+        "audienceScore": 39.0,
+        "story": "The Riddle",
+        "worldwideGross": 60.1,
+        "marketProfitability": "120.20%",
+        "year": 2009
+    },
+    {
+        "name": "The Invention of Lying ",
+        "audienceScore": 47.0,
+        "story": "Love",
+        "worldwideGross": 32.4,
+        "marketProfitability": "175.14%",
+        "year": 2009
+    },
+    {
+        "name": "The Lovely Bones ",
+        "audienceScore": 57.0,
+        "story": "Tragedy",
+        "worldwideGross": 94.78,
+        "marketProfitability": "145.82%",
+        "year": 2009
+    },
+    {
+        "name": "The Men Who Stare at Goats ",
+        "audienceScore": 43.0,
+        "story": "Comedy",
+        "worldwideGross": 68.94,
+        "marketProfitability": "275.76%",
+        "year": 2009
+    },
+    {
+        "name": "The Pink Panther 2 ",
+        "audienceScore": 47.0,
+        "story": "Comedy",
+        "worldwideGross": 75.94,
+        "marketProfitability": "128.71%",
+        "year": 2009
+    },
+    {
+        "name": "The Princess and the Frog ",
+        "audienceScore": 72.0,
+        "story": "Metamorphosis",
+        "worldwideGross": 267.04,
+        "marketProfitability": "254.32%",
+        "year": 2009
+    },
+    {
+        "name": "The Proposal ",
+        "audienceScore": 74.0,
+        "story": "Love",
+        "worldwideGross": 314.7,
+        "marketProfitability": "786.75%",
+        "year": 2009
+    },
+    {
+        "name": "The Road ",
+        "audienceScore": 65.0,
+        "story": "Quest",
+        "worldwideGross": 27.41,
+        "marketProfitability": "109.64%",
+        "year": 2009
+    },
+    {
+        "name": "The Soloist ",
+        "audienceScore": 59.0,
+        "story": "Quest",
+        "worldwideGross": 38.43,
+        "marketProfitability": "64.05%",
+        "year": 2009
+    },
+    {
+        "name": "The Stepfather",
+        "audienceScore": 48.0,
+        "story": "Rescue",
+        "worldwideGross": 31.2,
+        "marketProfitability": "156.00%",
+        "year": 2009
+    },
+    {
+        "name": "The Taking of Pelham 1 2 3 ",
+        "audienceScore": 60.0,
+        "story": "Rescue",
+        "worldwideGross": 150.16,
+        "marketProfitability": "150.16%",
+        "year": 2009
+    },
+    {
+        "name": "The Time Traveler's Wife ",
+        "audienceScore": 65.0,
+        "story": "Love",
+        "worldwideGross": 101.33,
+        "marketProfitability": "259.82%",
+        "year": 2009
+    },
+    {
+        "name": "The Twilight Saga: New Moon ",
+        "audienceScore": 78.0,
+        "story": "Love",
+        "worldwideGross": 709.82,
+        "marketProfitability": "1419.64%",
+        "year": 2009
+    },
+    {
+        "name": "The Ugly Truth ",
+        "audienceScore": 68.0,
+        "story": "Love",
+        "worldwideGross": 205.3,
+        "marketProfitability": "540.26%",
+        "year": 2009
+    },
+    {
+        "name": "The Unborn",
+        "audienceScore": 39.0,
+        "story": "Monster Force",
+        "worldwideGross": 76.51,
+        "marketProfitability": "478.19%",
+        "year": 2009
+    },
+    {
+        "name": "The Uninvited ",
+        "audienceScore": 52.0,
+        "story": "Monster Force",
+        "worldwideGross": 42.7,
+        "marketProfitability": null,
+        "year": 2009
+    },
+    {
+        "name": "Transformers: Revenge of the Fallen ",
+        "audienceScore": 76.0,
+        "story": "Revenge",
+        "worldwideGross": 836.3,
+        "marketProfitability": "398.24%",
+        "year": 2009
+    },
+    {
+        "name": "Underworld: Rise of the Lycans ",
+        "audienceScore": 68.0,
+        "story": "Rivalry",
+        "worldwideGross": 91.35,
+        "marketProfitability": "261.00%",
+        "year": 2009
+    },
+    {
+        "name": "Up ",
+        "audienceScore": 86.0,
+        "story": "Journey and Return",
+        "worldwideGross": 731.3,
+        "marketProfitability": "417.89%",
+        "year": 2009
+    },
+    {
+        "name": "Up in the Air ",
+        "audienceScore": 76.0,
+        "story": "Maturation",
+        "worldwideGross": 166.82,
+        "marketProfitability": "667.28%",
+        "year": 2009
+    },
+    {
+        "name": "Watchmen ",
+        "audienceScore": 68.0,
+        "story": "Sacrifice",
+        "worldwideGross": 185.3,
+        "marketProfitability": "142.54%",
+        "year": 2009
+    },
+    {
+        "name": "Whatever Works ",
+        "audienceScore": 63.0,
+        "story": "Discovery",
+        "worldwideGross": 35.1,
+        "marketProfitability": "234.00%",
+        "year": 2009
+    },
+    {
+        "name": "Where the Wild Things Are ",
+        "audienceScore": 59.0,
+        "story": "Journey and Return",
+        "worldwideGross": 99.12,
+        "marketProfitability": "99.12%",
+        "year": 2009
+    },
+    {
+        "name": "Whip It ",
+        "audienceScore": 73.0,
+        "story": "Maturation",
+        "worldwideGross": 16.0,
+        "marketProfitability": "106.67%",
+        "year": 2009
+    },
+    {
+        "name": "Whiteout ",
+        "audienceScore": 28.0,
+        "story": "Pursuit",
+        "worldwideGross": 12.2,
+        "marketProfitability": "34.86%",
+        "year": 2009
+    },
+    {
+        "name": "X-Men Origins: Wolverine ",
+        "audienceScore": 72.0,
+        "story": "Revenge",
+        "worldwideGross": 373.1,
+        "marketProfitability": "248.73%",
+        "year": 2009
+    },
+    {
+        "name": "Year One ",
+        "audienceScore": 31.0,
+        "story": "Quest",
+        "worldwideGross": 62.35,
+        "marketProfitability": "103.92%",
+        "year": 2009
+    },
+    {
+        "name": "Zombieland ",
+        "audienceScore": 87.0,
+        "story": "Monster Force",
+        "worldwideGross": 102.79,
+        "marketProfitability": "435.55%",
+        "year": 2009
+    },
+    {
+        "name": "Average",
+        "audienceScore": 57.0,
+        "story": null,
+        "worldwideGross": 152.0,
+        "marketProfitability": "277.49%",
+        "year": 2010
+    },
+    {
+        "name": "MacGruber",
+        "audienceScore": 33.0,
+        "story": "Comedy",
+        "worldwideGross": 9.33,
+        "marketProfitability": "93.30%",
+        "year": 2010
+    },
+    {
+        "name": "The Other Guys",
+        "audienceScore": 57.0,
+        "story": "Comedy",
+        "worldwideGross": 170.27,
+        "marketProfitability": "170.27%",
+        "year": 2010
+    },
+    {
+        "name": "All About Steve ",
+        "audienceScore": 35.0,
+        "story": "Comedy",
+        "worldwideGross": 40.12,
+        "marketProfitability": "267.47%",
+        "year": 2010
+    },
+    {
+        "name": "Death at a Funeral",
+        "audienceScore": 48.0,
+        "story": "Comedy",
+        "worldwideGross": 49.05,
+        "marketProfitability": "233.57%",
+        "year": 2010
+    },
+    {
+        "name": "Dinner for Schmucks",
+        "audienceScore": 47.0,
+        "story": "Comedy",
+        "worldwideGross": 86.41,
+        "marketProfitability": "125.23%",
+        "year": 2010
+    },
+    {
+        "name": "Due Date",
+        "audienceScore": 56.0,
+        "story": "Comedy",
+        "worldwideGross": 200.55,
+        "marketProfitability": "401.10%",
+        "year": 2010
+    },
+    {
+        "name": "Furry Vengeance\t",
+        "audienceScore": 36.0,
+        "story": "Comedy",
+        "worldwideGross": 35.97,
+        "marketProfitability": "102.77%",
+        "year": 2010
+    },
+    {
+        "name": "Get Him to the Greek",
+        "audienceScore": 63.0,
+        "story": "Comedy",
+        "worldwideGross": 91.39,
+        "marketProfitability": "228.48%",
+        "year": 2010
+    },
+    {
+        "name": "Grown Ups\t",
+        "audienceScore": 59.0,
+        "story": "Comedy",
+        "worldwideGross": 267.4,
+        "marketProfitability": "334.25%",
+        "year": 2010
+    },
+    {
+        "name": "I'm Still Here",
+        "audienceScore": 38.0,
+        "story": "Comedy",
+        "worldwideGross": 0.55,
+        "marketProfitability": null,
+        "year": 2010
+    },
+    {
+        "name": "Knucklehead",
+        "audienceScore": 35.0,
+        "story": "Comedy",
+        "worldwideGross": 0.0,
+        "marketProfitability": null,
+        "year": 2010
+    },
+    {
+        "name": "Little Fockers",
+        "audienceScore": 40.0,
+        "story": "Comedy",
+        "worldwideGross": 232.7,
+        "marketProfitability": "232.70%",
+        "year": 2010
+    },
+    {
+        "name": "Morning Glory",
+        "audienceScore": 54.0,
+        "story": "Comedy",
+        "worldwideGross": 58.79,
+        "marketProfitability": "146.98%",
+        "year": 2010
+    },
+    {
+        "name": "Nanny McPhee Returns",
+        "audienceScore": 54.0,
+        "story": "Comedy",
+        "worldwideGross": 93.24,
+        "marketProfitability": "266.40%",
+        "year": 2010
+    },
+    {
+        "name": "Please Give",
+        "audienceScore": 62.0,
+        "story": "Comedy",
+        "worldwideGross": 4.26,
+        "marketProfitability": "142.00%",
+        "year": 2010
+    },
+    {
+        "name": "The Kids Are All Right",
+        "audienceScore": 72.0,
+        "story": "Comedy",
+        "worldwideGross": 29.36,
+        "marketProfitability": "734.00%",
+        "year": 2010
+    },
+    {
+        "name": "The Switch",
+        "audienceScore": 44.0,
+        "story": "Comedy",
+        "worldwideGross": 47.73,
+        "marketProfitability": "251.21%",
+        "year": 2010
+    },
+    {
+        "name": "Tooth Fairy",
+        "audienceScore": 46.0,
+        "story": "Comedy",
+        "worldwideGross": 112.36,
+        "marketProfitability": "234.08%",
+        "year": 2010
+    },
+    {
+        "name": "Vampires Suck",
+        "audienceScore": 32.0,
+        "story": "Comedy",
+        "worldwideGross": 79.98,
+        "marketProfitability": "399.90%",
+        "year": 2010
+    },
+    {
+        "name": "Why Did I Get Married Too?",
+        "audienceScore": 67.0,
+        "story": "Comedy",
+        "worldwideGross": 60.67,
+        "marketProfitability": "303.35%",
+        "year": 2010
+    },
+    {
+        "name": "You Again",
+        "audienceScore": 45.0,
+        "story": "Comedy",
+        "worldwideGross": 31.86,
+        "marketProfitability": "159.30%",
+        "year": 2010
+    },
+    {
+        "name": "Jackass 3-D",
+        "audienceScore": 72.0,
+        "story": "Comedy",
+        "worldwideGross": 169.95,
+        "marketProfitability": "849.75%",
+        "year": 2010
+    },
+    {
+        "name": "Daybreakers\t",
+        "audienceScore": 50.0,
+        "story": "Discovery",
+        "worldwideGross": 51.41,
+        "marketProfitability": "257.05%",
+        "year": 2010
+    },
+    {
+        "name": "For Colored Girls",
+        "audienceScore": 73.0,
+        "story": "Discovery",
+        "worldwideGross": 55.01,
+        "marketProfitability": "261.95%",
+        "year": 2010
+    },
+    {
+        "name": "The Company Men",
+        "audienceScore": 56.0,
+        "story": "Discovery",
+        "worldwideGross": 0.0,
+        "marketProfitability": null,
+        "year": 2010
+    },
+    {
+        "name": "The Greatest",
+        "audienceScore": 39.0,
+        "story": "Discovery",
+        "worldwideGross": 0.41,
+        "marketProfitability": "6.83%",
+        "year": 2010
+    },
+    {
+        "name": "The Last Song",
+        "audienceScore": 66.0,
+        "story": "Discovery",
+        "worldwideGross": 89.04,
+        "marketProfitability": "445.20%",
+        "year": 2010
+    },
+    {
+        "name": "Charlie St. Cloud\t",
+        "audienceScore": 62.0,
+        "story": "Discovery",
+        "worldwideGross": 46.09,
+        "marketProfitability": "104.75%",
+        "year": 2010
+    },
+    {
+        "name": "127 Hours",
+        "audienceScore": 84.0,
+        "story": "Escape",
+        "worldwideGross": 60.73,
+        "marketProfitability": "337.39%",
+        "year": 2010
+    },
+    {
+        "name": "Saw 3-D",
+        "audienceScore": 47.0,
+        "story": "Escape",
+        "worldwideGross": 122.51,
+        "marketProfitability": "612.55%",
+        "year": 2010
+    },
+    {
+        "name": "Buried",
+        "audienceScore": 63.0,
+        "story": "Escape",
+        "worldwideGross": 18.37,
+        "marketProfitability": "918.50%",
+        "year": 2010
+    },
+    {
+        "name": "Tron: Legacy",
+        "audienceScore": 67.0,
+        "story": "Fish Out Of Water",
+        "worldwideGross": 291.41,
+        "marketProfitability": "171.42%",
+        "year": 2010
+    },
+    {
+        "name": "Inception",
+        "audienceScore": 93.0,
+        "story": "Journey and Return",
+        "worldwideGross": 823.58,
+        "marketProfitability": "514.74%",
+        "year": 2010
+    },
+    {
+        "name": "Alice in Wonderland",
+        "audienceScore": 72.0,
+        "story": "Journey and Return",
+        "worldwideGross": 1024.39,
+        "marketProfitability": "512.20%",
+        "year": 2010
+    },
+    {
+        "name": "Hot Tub Time Machine",
+        "audienceScore": 57.0,
+        "story": "Journey and Return",
+        "worldwideGross": 64.42,
+        "marketProfitability": "178.94%",
+        "year": 2010
+    },
+    {
+        "name": "Alpha and Omega",
+        "audienceScore": 41.0,
+        "story": "Journey and Return",
+        "worldwideGross": 29.92,
+        "marketProfitability": "149.60%",
+        "year": 2010
+    },
+    {
+        "name": "Shrek Forever After",
+        "audienceScore": 64.0,
+        "story": "Journey and Return",
+        "worldwideGross": 748.8,
+        "marketProfitability": "453.82%",
+        "year": 2010
+    },
+    {
+        "name": "Gulliver's Travels",
+        "audienceScore": 31.0,
+        "story": "Journey and Return",
+        "worldwideGross": 236.0,
+        "marketProfitability": "210.71%",
+        "year": 2010
+    },
+    {
+        "name": "Eat Pray Love\t",
+        "audienceScore": 46.0,
+        "story": "Journey and Return",
+        "worldwideGross": 204.48,
+        "marketProfitability": "340.80%",
+        "year": 2010
+    },
+    {
+        "name": "Killers",
+        "audienceScore": 45.0,
+        "story": "Love",
+        "worldwideGross": 93.4,
+        "marketProfitability": "124.53%",
+        "year": 2010
+    },
+    {
+        "name": "Tangled",
+        "audienceScore": 88.0,
+        "story": "Love",
+        "worldwideGross": 355.08,
+        "marketProfitability": "136.57%",
+        "year": 2010
+    },
+    {
+        "name": "Going the Distance",
+        "audienceScore": 56.0,
+        "story": "Love",
+        "worldwideGross": 42.05,
+        "marketProfitability": "131.41%",
+        "year": 2010
+    },
+    {
+        "name": "I Love You Phillip Morris",
+        "audienceScore": 57.0,
+        "story": "Love",
+        "worldwideGross": 20.1,
+        "marketProfitability": "134.00%",
+        "year": 2010
+    },
+    {
+        "name": "Just Wright",
+        "audienceScore": 58.0,
+        "story": "Love",
+        "worldwideGross": 21.569,
+        "marketProfitability": "179.74%",
+        "year": 2010
+    },
+    {
+        "name": "Leap Year",
+        "audienceScore": 49.0,
+        "story": "Love",
+        "worldwideGross": 32.59,
+        "marketProfitability": "171.53%",
+        "year": 2010
+    },
+    {
+        "name": "Letters to Juliet",
+        "audienceScore": 62.0,
+        "story": "Love",
+        "worldwideGross": 79.18,
+        "marketProfitability": "263.93%",
+        "year": 2010
+    },
+    {
+        "name": "Life as We Know It",
+        "audienceScore": 62.0,
+        "story": "Love",
+        "worldwideGross": 96.16,
+        "marketProfitability": "253.05%",
+        "year": 2010
+    },
+    {
+        "name": "Love & Other Drugs",
+        "audienceScore": 55.0,
+        "story": "Love",
+        "worldwideGross": 54.53,
+        "marketProfitability": "181.77%",
+        "year": 2010
+    },
+    {
+        "name": "Our Family Wedding",
+        "audienceScore": 49.0,
+        "story": "Love",
+        "worldwideGross": 21.37,
+        "marketProfitability": null,
+        "year": 2010
+    },
+    {
+        "name": "Sex and the City 2",
+        "audienceScore": 49.0,
+        "story": "Love",
+        "worldwideGross": 288.35,
+        "marketProfitability": "288.35%",
+        "year": 2010
+    },
+    {
+        "name": "She's Out of My League",
+        "audienceScore": 60.0,
+        "story": "Love",
+        "worldwideGross": 48.81,
+        "marketProfitability": "244.05%",
+        "year": 2010
+    },
+    {
+        "name": "The Back-up Plan",
+        "audienceScore": 47.0,
+        "story": "Love",
+        "worldwideGross": 77.09,
+        "marketProfitability": "220.26%",
+        "year": 2010
+    },
+    {
+        "name": "Valentine's Day",
+        "audienceScore": 54.0,
+        "story": "Love",
+        "worldwideGross": 217.57,
+        "marketProfitability": "418.40%",
+        "year": 2010
+    },
+    {
+        "name": "When in Rome",
+        "audienceScore": 44.0,
+        "story": "Love",
+        "worldwideGross": 43.04,
+        "marketProfitability": null,
+        "year": 2010
+    },
+    {
+        "name": "You Will Meet a Tall Dark Stranger",
+        "audienceScore": 35.0,
+        "story": "Love",
+        "worldwideGross": 26.66,
+        "marketProfitability": "121.18%",
+        "year": 2010
+    },
+    {
+        "name": "Youth in Revolt",
+        "audienceScore": 52.0,
+        "story": "Love",
+        "worldwideGross": 19.62,
+        "marketProfitability": "109.00%",
+        "year": 2010
+    },
+    {
+        "name": "Dear John",
+        "audienceScore": 66.0,
+        "story": "Love",
+        "worldwideGross": 114.97,
+        "marketProfitability": "459.88%",
+        "year": 2010
+    },
+    {
+        "name": "Remember Me",
+        "audienceScore": 70.0,
+        "story": "Love",
+        "worldwideGross": 55.86,
+        "marketProfitability": "349.13%",
+        "year": 2010
+    },
+    {
+        "name": "Despicable Me",
+        "audienceScore": 81.0,
+        "story": "Maturation",
+        "worldwideGross": 541.88,
+        "marketProfitability": "785.33%",
+        "year": 2010
+    },
+    {
+        "name": "The King's Speech",
+        "audienceScore": 93.0,
+        "story": "Maturation",
+        "worldwideGross": 427.36,
+        "marketProfitability": "2849.07%",
+        "year": 2010
+    },
+    {
+        "name": "The Runaways",
+        "audienceScore": 56.0,
+        "story": "Maturation",
+        "worldwideGross": 4.68,
+        "marketProfitability": "46.80%",
+        "year": 2010
+    },
+    {
+        "name": "Easy A",
+        "audienceScore": 75.0,
+        "story": "Maturation",
+        "worldwideGross": 73.64,
+        "marketProfitability": "920.50%",
+        "year": 2010
+    },
+    {
+        "name": "Legion",
+        "audienceScore": 36.0,
+        "story": "Monster Force",
+        "worldwideGross": 67.91,
+        "marketProfitability": "261.19%",
+        "year": 2010
+    },
+    {
+        "name": "Predators",
+        "audienceScore": 52.0,
+        "story": "Monster Force",
+        "worldwideGross": 126.74,
+        "marketProfitability": "316.85%",
+        "year": 2010
+    },
+    {
+        "name": "Resident Evil: Afterlife",
+        "audienceScore": 53.0,
+        "story": "Monster Force",
+        "worldwideGross": 296.22,
+        "marketProfitability": "493.70%",
+        "year": 2010
+    },
+    {
+        "name": "Skyline",
+        "audienceScore": 19.0,
+        "story": "Monster Force",
+        "worldwideGross": 55.26,
+        "marketProfitability": "552.60%",
+        "year": 2010
+    },
+    {
+        "name": "Piranha 3-D",
+        "audienceScore": 45.0,
+        "story": "Monster Force",
+        "worldwideGross": 79.78,
+        "marketProfitability": "332.42%",
+        "year": 2010
+    },
+    {
+        "name": "The Last Exorcism",
+        "audienceScore": 32.0,
+        "story": "Monster Force",
+        "worldwideGross": 66.45,
+        "marketProfitability": "3691.67%",
+        "year": 2010
+    },
+    {
+        "name": "The Twilight Saga: Eclipse\t",
+        "audienceScore": 74.0,
+        "story": "Monster Force",
+        "worldwideGross": 693.58,
+        "marketProfitability": "1019.97%",
+        "year": 2010
+    },
+    {
+        "name": "The Wolfman",
+        "audienceScore": 38.0,
+        "story": "Monster Force",
+        "worldwideGross": 139.79,
+        "marketProfitability": "93.19%",
+        "year": 2010
+    },
+    {
+        "name": "A Nightmare on Elm Street",
+        "audienceScore": 40.0,
+        "story": "Monster Force",
+        "worldwideGross": 115.67,
+        "marketProfitability": "330.49%",
+        "year": 2010
+    },
+    {
+        "name": "Case 39",
+        "audienceScore": 42.0,
+        "story": "Monster Force",
+        "worldwideGross": 28.19,
+        "marketProfitability": "108.42%",
+        "year": 2010
+    },
+    {
+        "name": "Devil",
+        "audienceScore": 45.0,
+        "story": "Monster Force",
+        "worldwideGross": 56.83,
+        "marketProfitability": "568.30%",
+        "year": 2010
+    },
+    {
+        "name": "My Soul to Take",
+        "audienceScore": 29.0,
+        "story": "Monster Force",
+        "worldwideGross": 19.83,
+        "marketProfitability": "79.32%",
+        "year": 2010
+    },
+    {
+        "name": "The Crazies",
+        "audienceScore": 54.0,
+        "story": "Monster Force",
+        "worldwideGross": 54.59,
+        "marketProfitability": "272.95%",
+        "year": 2010
+    },
+    {
+        "name": "Cats & Dogs: The Revenge of Kitty Galore",
+        "audienceScore": 43.0,
+        "story": "Pursuit",
+        "worldwideGross": 112.49,
+        "marketProfitability": "132.34%",
+        "year": 2010
+    },
+    {
+        "name": "From Paris with Love",
+        "audienceScore": 57.0,
+        "story": "Pursuit",
+        "worldwideGross": 52.8,
+        "marketProfitability": "101.54%",
+        "year": 2010
+    },
+    {
+        "name": "Knight and Day",
+        "audienceScore": 52.0,
+        "story": "Pursuit",
+        "worldwideGross": 261.68,
+        "marketProfitability": "223.66%",
+        "year": 2010
+    },
+    {
+        "name": "The A-Team",
+        "audienceScore": 71.0,
+        "story": "Pursuit",
+        "worldwideGross": 177.03,
+        "marketProfitability": "177.03%",
+        "year": 2010
+    },
+    {
+        "name": "The Expendables",
+        "audienceScore": 58.0,
+        "story": "Pursuit",
+        "worldwideGross": 274.47,
+        "marketProfitability": "334.72%",
+        "year": 2010
+    },
+    {
+        "name": "The Sorcerer's Apprentice",
+        "audienceScore": 57.0,
+        "story": "Pursuit",
+        "worldwideGross": 215.28,
+        "marketProfitability": "143.52%",
+        "year": 2010
+    },
+    {
+        "name": "Date Night",
+        "audienceScore": 58.0,
+        "story": "Pursuit",
+        "worldwideGross": 152.26,
+        "marketProfitability": "276.84%",
+        "year": 2010
+    },
+    {
+        "name": "Clash of the Titans",
+        "audienceScore": 48.0,
+        "story": "Quest",
+        "worldwideGross": 493.21,
+        "marketProfitability": "394.57%",
+        "year": 2010
+    },
+    {
+        "name": "Green Zone",
+        "audienceScore": 60.0,
+        "story": "Quest",
+        "worldwideGross": 94.87,
+        "marketProfitability": "94.87%",
+        "year": 2010
+    },
+    {
+        "name": "The Book of Eli        ",
+        "audienceScore": 68.0,
+        "story": "Quest",
+        "worldwideGross": 153.46,
+        "marketProfitability": "191.83%",
+        "year": 2010
+    },
+    {
+        "name": "The Last Airbender",
+        "audienceScore": 42.0,
+        "story": "Quest",
+        "worldwideGross": 319.12,
+        "marketProfitability": "212.75%",
+        "year": 2010
+    },
+    {
+        "name": "Harry Potter and the Deathly Hallows Part 1",
+        "audienceScore": 87.0,
+        "story": "Quest",
+        "worldwideGross": 955.0,
+        "marketProfitability": "764.00%",
+        "year": 2010
+    },
+    {
+        "name": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+        "audienceScore": 63.0,
+        "story": "Quest",
+        "worldwideGross": 415.0,
+        "marketProfitability": "267.74%",
+        "year": 2010
+    },
+    {
+        "name": "Winter's Bone",
+        "audienceScore": 73.0,
+        "story": "Quest",
+        "worldwideGross": 7.79,
+        "marketProfitability": "389.50%",
+        "year": 2010
+    },
+    {
+        "name": "The Social Network",
+        "audienceScore": 89.0,
+        "story": "Rags to Riches",
+        "worldwideGross": 199.6,
+        "marketProfitability": "399.20%",
+        "year": 2010
+    },
+    {
+        "name": "Burlesque",
+        "audienceScore": 66.0,
+        "story": "Rags to Riches",
+        "worldwideGross": 56.08,
+        "marketProfitability": "101.96%",
+        "year": 2010
+    },
+    {
+        "name": "Country Strong",
+        "audienceScore": 56.0,
+        "story": "Rags to Riches",
+        "worldwideGross": 20.52,
+        "marketProfitability": "136.80%",
+        "year": 2010
+    },
+    {
+        "name": "Repo Men",
+        "audienceScore": 43.0,
+        "story": "Rescue",
+        "worldwideGross": 18.41,
+        "marketProfitability": "57.53%",
+        "year": 2010
+    },
+    {
+        "name": "Unstoppable",
+        "audienceScore": 73.0,
+        "story": "Rescue",
+        "worldwideGross": 169.5,
+        "marketProfitability": "178.42%",
+        "year": 2010
+    },
+    {
+        "name": "Toy Story 3",
+        "audienceScore": 91.0,
+        "story": "Rescue",
+        "worldwideGross": 1063.16,
+        "marketProfitability": "531.58%",
+        "year": 2010
+    },
+    {
+        "name": "Conviction",
+        "audienceScore": 71.0,
+        "story": "Rescue",
+        "worldwideGross": 9.71,
+        "marketProfitability": "77.68%",
+        "year": 2010
+    },
+    {
+        "name": "The Next Three Days",
+        "audienceScore": 66.0,
+        "story": "Rescue",
+        "worldwideGross": 41.75,
+        "marketProfitability": "139.17%",
+        "year": 2010
+    },
+    {
+        "name": "Faster\t",
+        "audienceScore": 50.0,
+        "story": "Revenge",
+        "worldwideGross": 24.91,
+        "marketProfitability": "103.79%",
+        "year": 2010
+    },
+    {
+        "name": "Jonah Hex",
+        "audienceScore": 24.0,
+        "story": "Revenge",
+        "worldwideGross": 10.91,
+        "marketProfitability": "23.21%",
+        "year": 2010
+    },
+    {
+        "name": "Machete",
+        "audienceScore": 66.0,
+        "story": "Revenge",
+        "worldwideGross": 42.14,
+        "marketProfitability": "210.70%",
+        "year": 2010
+    },
+    {
+        "name": "Salt",
+        "audienceScore": 62.0,
+        "story": "Revenge",
+        "worldwideGross": 293.5,
+        "marketProfitability": "266.82%",
+        "year": 2010
+    },
+    {
+        "name": "The Losers",
+        "audienceScore": 55.0,
+        "story": "Revenge",
+        "worldwideGross": 29.38,
+        "marketProfitability": "117.52%",
+        "year": 2010
+    },
+    {
+        "name": "True Grit",
+        "audienceScore": 86.0,
+        "story": "Revenge",
+        "worldwideGross": 252.03,
+        "marketProfitability": "663.24%",
+        "year": 2010
+    },
+    {
+        "name": "Edge of Darkness",
+        "audienceScore": 56.0,
+        "story": "Revenge",
+        "worldwideGross": 81.12,
+        "marketProfitability": "101.40%",
+        "year": 2010
+    },
+    {
+        "name": "Iron Man 2",
+        "audienceScore": 80.0,
+        "story": "Rivalry",
+        "worldwideGross": 622.05,
+        "marketProfitability": "311.03%",
+        "year": 2010
+    },
+    {
+        "name": "Kick-Ass",
+        "audienceScore": 83.0,
+        "story": "Rivalry",
+        "worldwideGross": 96.13,
+        "marketProfitability": "320.43%",
+        "year": 2010
+    },
+    {
+        "name": "Percy Jackson & the Olympians: The Lightning Thief",
+        "audienceScore": 57.0,
+        "story": "Rivalry",
+        "worldwideGross": 226.5,
+        "marketProfitability": "238.42%",
+        "year": 2010
+    },
+    {
+        "name": "Prince of Persia: The Sands of Time",
+        "audienceScore": 71.0,
+        "story": "Rivalry",
+        "worldwideGross": 335.15,
+        "marketProfitability": "167.58%",
+        "year": 2010
+    },
+    {
+        "name": "Red",
+        "audienceScore": 72.0,
+        "story": "Rivalry",
+        "worldwideGross": 164.42,
+        "marketProfitability": "283.48%",
+        "year": 2010
+    },
+    {
+        "name": "Robin Hood",
+        "audienceScore": 59.0,
+        "story": "Rivalry",
+        "worldwideGross": 321.67,
+        "marketProfitability": "160.84%",
+        "year": 2010
+    },
+    {
+        "name": "Takers",
+        "audienceScore": 57.0,
+        "story": "Rivalry",
+        "worldwideGross": 68.16,
+        "marketProfitability": "213.00%",
+        "year": 2010
+    },
+    {
+        "name": "The Bounty Hunter",
+        "audienceScore": 41.0,
+        "story": "Rivalry",
+        "worldwideGross": 136.32,
+        "marketProfitability": "340.80%",
+        "year": 2010
+    },
+    {
+        "name": "The Spy Next Door",
+        "audienceScore": 46.0,
+        "story": "Rivalry",
+        "worldwideGross": 43.58,
+        "marketProfitability": null,
+        "year": 2010
+    },
+    {
+        "name": "Legend of the Guardians: The Owls of Ga'Hoole",
+        "audienceScore": 65.0,
+        "story": "Rivalry",
+        "worldwideGross": 139.9,
+        "marketProfitability": "174.88%",
+        "year": 2010
+    },
+    {
+        "name": "Cyrus",
+        "audienceScore": 51.0,
+        "story": "Rivalry",
+        "worldwideGross": 9.92,
+        "marketProfitability": "141.71%",
+        "year": 2010
+    },
+    {
+        "name": "Marmaduke",
+        "audienceScore": 46.0,
+        "story": "Rivalry",
+        "worldwideGross": 83.35,
+        "marketProfitability": "166.70%",
+        "year": 2010
+    },
+    {
+        "name": "The American",
+        "audienceScore": 37.0,
+        "story": "Rivalry",
+        "worldwideGross": 46.0,
+        "marketProfitability": "230.00%",
+        "year": 2010
+    },
+    {
+        "name": "The Town",
+        "audienceScore": 83.0,
+        "story": "Rivalry",
+        "worldwideGross": 144.55,
+        "marketProfitability": "390.68%",
+        "year": 2010
+    },
+    {
+        "name": "Stone",
+        "audienceScore": 20.0,
+        "story": "Rivalry",
+        "worldwideGross": 8.4,
+        "marketProfitability": "38.18%",
+        "year": 2010
+    },
+    {
+        "name": "Wall Street: Money Never Sleeps",
+        "audienceScore": 43.0,
+        "story": "Rivalry",
+        "worldwideGross": 130.63,
+        "marketProfitability": "186.61%",
+        "year": 2010
+    },
+    {
+        "name": "Hachiko: A Dog's Story",
+        "audienceScore": 85.0,
+        "story": "Sacrifice",
+        "worldwideGross": 40.26,
+        "marketProfitability": "251.63%",
+        "year": 2010
+    },
+    {
+        "name": "Brooklyn's Finest",
+        "audienceScore": 47.0,
+        "story": "Temptation",
+        "worldwideGross": 36.35,
+        "marketProfitability": "213.82%",
+        "year": 2010
+    },
+    {
+        "name": "The Joneses",
+        "audienceScore": 47.0,
+        "story": "Temptation",
+        "worldwideGross": 1.97,
+        "marketProfitability": "19.70%",
+        "year": 2010
+    },
+    {
+        "name": "Cop Out",
+        "audienceScore": 45.0,
+        "story": "The Riddle",
+        "worldwideGross": 55.52,
+        "marketProfitability": "185.07%",
+        "year": 2010
+    },
+    {
+        "name": "The Killer Inside Me",
+        "audienceScore": 41.0,
+        "story": "The Riddle",
+        "worldwideGross": 3.58,
+        "marketProfitability": "27.54%",
+        "year": 2010
+    },
+    {
+        "name": "All Good Things",
+        "audienceScore": 64.0,
+        "story": "The Riddle",
+        "worldwideGross": 0.642,
+        "marketProfitability": "3.21%",
+        "year": 2010
+    },
+    {
+        "name": "Shutter Island",
+        "audienceScore": 73.0,
+        "story": "The Riddle",
+        "worldwideGross": 294.8,
+        "marketProfitability": "368.50%",
+        "year": 2010
+    },
+    {
+        "name": "The Ghost Writer",
+        "audienceScore": 68.0,
+        "story": "The Riddle",
+        "worldwideGross": 60.02,
+        "marketProfitability": "133.38%",
+        "year": 2010
+    },
+    {
+        "name": "Never Let Me Go",
+        "audienceScore": 70.0,
+        "story": "Tragedy",
+        "worldwideGross": 9.73,
+        "marketProfitability": "64.87%",
+        "year": 2010
+    },
+    {
+        "name": "Megamind",
+        "audienceScore": 73.0,
+        "story": "Transformation",
+        "worldwideGross": 318.13,
+        "marketProfitability": "244.72%",
+        "year": 2010
+    },
+    {
+        "name": "City Island",
+        "audienceScore": 77.0,
+        "story": "Transformation",
+        "worldwideGross": 7.86,
+        "marketProfitability": "131.00%",
+        "year": 2010
+    },
+    {
+        "name": "Greenberg",
+        "audienceScore": 40.0,
+        "story": "Transformation",
+        "worldwideGross": 6.15,
+        "marketProfitability": null,
+        "year": 2010
+    },
+    {
+        "name": "Mother and Child",
+        "audienceScore": 61.0,
+        "story": "Transformation",
+        "worldwideGross": 4.87,
+        "marketProfitability": "69.57%",
+        "year": 2010
+    },
+    {
+        "name": "Step Up 3D",
+        "audienceScore": 67.0,
+        "story": "Transformation",
+        "worldwideGross": 159.15,
+        "marketProfitability": "530.50%",
+        "year": 2010
+    },
+    {
+        "name": "Scott Pilgrim vs. the World",
+        "audienceScore": 83.0,
+        "story": "Underdog",
+        "worldwideGross": 47.57,
+        "marketProfitability": "79.28%",
+        "year": 2010
+    },
+    {
+        "name": "The Karate Kid",
+        "audienceScore": 75.0,
+        "story": "Underdog",
+        "worldwideGross": 359.12,
+        "marketProfitability": "897.80%",
+        "year": 2010
+    },
+    {
+        "name": "How to Train Your Dragon",
+        "audienceScore": 90.0,
+        "story": "Underdog",
+        "worldwideGross": 494.88,
+        "marketProfitability": "299.93%",
+        "year": 2010
+    },
+    {
+        "name": "Diary of a Wimpy Kid",
+        "audienceScore": 49.0,
+        "story": "Underdog",
+        "worldwideGross": 75.7,
+        "marketProfitability": "504.67%",
+        "year": 2010
+    },
+    {
+        "name": "Extraordinary Measures\t",
+        "audienceScore": 55.0,
+        "story": "Underdog",
+        "worldwideGross": 15.14,
+        "marketProfitability": "48.84%",
+        "year": 2010
+    },
+    {
+        "name": "The Fighter",
+        "audienceScore": 88.0,
+        "story": "Underdog",
+        "worldwideGross": 128.0,
+        "marketProfitability": "512.00%",
+        "year": 2010
+    },
+    {
+        "name": "Solitary Man",
+        "audienceScore": 47.0,
+        "story": "Wretched Excess",
+        "worldwideGross": 5.06,
+        "marketProfitability": "33.73%",
+        "year": 2010
+    },
+    {
+        "name": "Black Swan        ",
+        "audienceScore": 86.0,
+        "story": "Wretched Excess",
+        "worldwideGross": 329.39,
+        "marketProfitability": "2533.77%",
+        "year": 2010
+    },
+    {
+        "name": "Yogi Bear",
+        "audienceScore": 36.0,
+        "story": null,
+        "worldwideGross": 202.27,
+        "marketProfitability": "252.84%",
+        "year": 2010
+    },
+    {
+        "name": "The Tourist",
+        "audienceScore": 44.0,
+        "story": null,
+        "worldwideGross": 277.0,
+        "marketProfitability": "277.00%",
+        "year": 2010
+    },
+    {
+        "name": "30 Minutes or Less",
+        "audienceScore": 48.0,
+        "story": "Comedy",
+        "worldwideGross": 40.55,
+        "marketProfitability": "144.81%",
+        "year": 2011
+    },
+    {
+        "name": "50/50",
+        "audienceScore": 93.0,
+        "story": "Discovery",
+        "worldwideGross": 36.51,
+        "marketProfitability": "456.39%",
+        "year": 2011
+    },
+    {
+        "name": "A Dangerous Method",
+        "audienceScore": 89.0,
+        "story": "Love",
+        "worldwideGross": 8.97,
+        "marketProfitability": "44.86%",
+        "year": 2011
+    },
+    {
+        "name": "A Very Harold and Kumar Christmas",
+        "audienceScore": 71.0,
+        "story": "Comedy",
+        "worldwideGross": 34.04,
+        "marketProfitability": "179.18%",
+        "year": 2011
+    },
+    {
+        "name": "Abduction",
+        "audienceScore": 46.0,
+        "story": "Maturation",
+        "worldwideGross": 82.07,
+        "marketProfitability": "234.48%",
+        "year": 2011
+    },
+    {
+        "name": "Albert Nobbs",
+        "audienceScore": 43.0,
+        "story": null,
+        "worldwideGross": 2.75,
+        "marketProfitability": "34.38%",
+        "year": 2011
+    },
+    {
+        "name": "Anonymous",
+        "audienceScore": 66.0,
+        "story": "Tragedy",
+        "worldwideGross": 14.19,
+        "marketProfitability": "47.30%",
+        "year": 2011
+    },
+    {
+        "name": "Another Earth",
+        "audienceScore": 74.0,
+        "story": "Temptation",
+        "worldwideGross": 1.77,
+        "marketProfitability": "885.50%",
+        "year": 2011
+    },
+    {
+        "name": "Apollo 18",
+        "audienceScore": 31.0,
+        "story": "Monster Force",
+        "worldwideGross": 25.56,
+        "marketProfitability": "511.24%",
+        "year": 2011
+    },
+    {
+        "name": "Arthur",
+        "audienceScore": 49.0,
+        "story": "Sacrifice",
+        "worldwideGross": 45.74,
+        "marketProfitability": "114.34%",
+        "year": 2011
+    },
+    {
+        "name": "Arthur Christmas",
+        "audienceScore": 82.0,
+        "story": "Journey and Return",
+        "worldwideGross": 147.41,
+        "marketProfitability": "98.27%",
+        "year": 2011
+    },
+    {
+        "name": "Average",
+        "audienceScore": 62.0,
+        "story": null,
+        "worldwideGross": 163.0,
+        "marketProfitability": "296.26%",
+        "year": 2011
+    },
+    {
+        "name": "Bad Teacher",
+        "audienceScore": 38.0,
+        "story": "Comedy",
+        "worldwideGross": 216.2,
+        "marketProfitability": "1080.98%",
+        "year": 2011
+    },
+    {
+        "name": "Battle: Los Angeles",
+        "audienceScore": 50.0,
+        "story": "Monster Force",
+        "worldwideGross": 211.82,
+        "marketProfitability": "302.60%",
+        "year": 2011
+    },
+    {
+        "name": "Beastly",
+        "audienceScore": 50.0,
+        "story": "Metamorphosis",
+        "worldwideGross": 28.83,
+        "marketProfitability": "169.61%",
+        "year": 2011
+    },
+    {
+        "name": "Beginners",
+        "audienceScore": 80.0,
+        "story": "Love",
+        "worldwideGross": 14.31,
+        "marketProfitability": "447.19%",
+        "year": 2011
+    },
+    {
+        "name": "Bridesmaids",
+        "audienceScore": 77.0,
+        "story": "Rivalry",
+        "worldwideGross": 288.38,
+        "marketProfitability": "887.33%",
+        "year": 2011
+    },
+    {
+        "name": "Captain America: The First Avenger",
+        "audienceScore": 75.0,
+        "story": "Metamorphosis",
+        "worldwideGross": 368.4,
+        "marketProfitability": "263.15%",
+        "year": 2011
+    },
+    {
+        "name": "Cars 2",
+        "audienceScore": 56.0,
+        "story": "Fish Out Of Water",
+        "worldwideGross": 551.85,
+        "marketProfitability": "275.93%",
+        "year": 2011
+    },
+    {
+        "name": "Cedar Rapids",
+        "audienceScore": 61.0,
+        "story": "Maturation",
+        "worldwideGross": 6.86,
+        "marketProfitability": "68.61%",
+        "year": 2011
+    },
+    {
+        "name": "Colombiana",
+        "audienceScore": 55.0,
+        "story": "Revenge",
+        "worldwideGross": 60.97,
+        "marketProfitability": "152.41%",
+        "year": 2011
+    },
+    {
+        "name": "Conan the Barbarian",
+        "audienceScore": 34.0,
+        "story": "Quest",
+        "worldwideGross": 48.8,
+        "marketProfitability": "54.22%",
+        "year": 2011
+    },
+    {
+        "name": "Contagion",
+        "audienceScore": 63.0,
+        "story": "The Riddle",
+        "worldwideGross": 135.46,
+        "marketProfitability": "225.76%",
+        "year": 2011
+    },
+    {
+        "name": "Cowboys and Aliens",
+        "audienceScore": 50.0,
+        "story": "Monster Force",
+        "worldwideGross": 174.82,
+        "marketProfitability": "107.25%",
+        "year": 2011
+    },
+    {
+        "name": "Crazy, Stupid, Love",
+        "audienceScore": 81.0,
+        "story": "Discovery",
+        "worldwideGross": 142.84,
+        "marketProfitability": "285.68%",
+        "year": 2011
+    },
+    {
+        "name": "Diary of a Wimpy Kid 2: Rodrick Rules",
+        "audienceScore": 63.0,
+        "story": "Comedy",
+        "worldwideGross": 72.42,
+        "marketProfitability": "344.84%",
+        "year": 2011
+    },
+    {
+        "name": "Dolphin Tale",
+        "audienceScore": 81.0,
+        "story": "Quest",
+        "worldwideGross": 87.95,
+        "marketProfitability": "237.69%",
+        "year": 2011
+    },
+    {
+        "name": "Don't Be Afraid Of The Dark",
+        "audienceScore": 37.0,
+        "story": "Monster Force",
+        "worldwideGross": 31.55,
+        "marketProfitability": "126.18%",
+        "year": 2011
+    },
+    {
+        "name": "Dream House",
+        "audienceScore": 38.0,
+        "story": "The Riddle",
+        "worldwideGross": 38.5,
+        "marketProfitability": "77.00%",
+        "year": 2011
+    },
+    {
+        "name": "Drive",
+        "audienceScore": 79.0,
+        "story": "Rivalry",
+        "worldwideGross": 67.01,
+        "marketProfitability": "446.71%",
+        "year": 2011
+    },
+    {
+        "name": "Drive Angry",
+        "audienceScore": 38.0,
+        "story": "Rescue",
+        "worldwideGross": 28.93,
+        "marketProfitability": "64.29%",
+        "year": 2011
+    },
+    {
+        "name": "Dylan Dog: Dead of Night",
+        "audienceScore": 28.0,
+        "story": "Monster Force",
+        "worldwideGross": 4.63,
+        "marketProfitability": "23.17%",
+        "year": 2011
+    },
+    {
+        "name": "Everything Must Go",
+        "audienceScore": 53.0,
+        "story": "Discovery",
+        "worldwideGross": 2.71,
+        "marketProfitability": "54.22%",
+        "year": 2011
+    },
+    {
+        "name": "Extremely Loud and Incredibly Close",
+        "audienceScore": 62.0,
+        "story": null,
+        "worldwideGross": 45.99,
+        "marketProfitability": "114.98%",
+        "year": 2011
+    },
+    {
+        "name": "Fast Five",
+        "audienceScore": 83.0,
+        "story": "Escape",
+        "worldwideGross": 626.13,
+        "marketProfitability": "500.90%",
+        "year": 2011
+    },
+    {
+        "name": "Final Destination 5",
+        "audienceScore": 56.0,
+        "story": "Monster Force",
+        "worldwideGross": 157.89,
+        "marketProfitability": "394.72%",
+        "year": 2011
+    },
+    {
+        "name": "Footloose",
+        "audienceScore": 71.0,
+        "story": "Transformation",
+        "worldwideGross": 62.05,
+        "marketProfitability": "258.55%",
+        "year": 2011
+    },
+    {
+        "name": "Friends With Benefits",
+        "audienceScore": 68.0,
+        "story": "Temptation",
+        "worldwideGross": 149.54,
+        "marketProfitability": "427.26%",
+        "year": 2011
+    },
+    {
+        "name": "Fright Night",
+        "audienceScore": 68.0,
+        "story": "Rivalry",
+        "worldwideGross": 37.1,
+        "marketProfitability": "123.67%",
+        "year": 2011
+    },
+    {
+        "name": "Gnomeo and Juliet",
+        "audienceScore": 52.0,
+        "story": "Love",
+        "worldwideGross": 193.97,
+        "marketProfitability": "538.80%",
+        "year": 2011
+    },
+    {
+        "name": "Green Lantern",
+        "audienceScore": 48.0,
+        "story": "Metamorphosis",
+        "worldwideGross": 219.85,
+        "marketProfitability": "109.93%",
+        "year": 2011
+    },
+    {
+        "name": "Hall Pass",
+        "audienceScore": 44.0,
+        "story": "Temptation",
+        "worldwideGross": 83.16,
+        "marketProfitability": "231.00%",
+        "year": 2011
+    },
+    {
+        "name": "Hanna",
+        "audienceScore": 67.0,
+        "story": "Quest",
+        "worldwideGross": 63.78,
+        "marketProfitability": "212.60%",
+        "year": 2011
+    },
+    {
+        "name": "Happy Feet 2",
+        "audienceScore": 59.0,
+        "story": "Journey and Return",
+        "worldwideGross": 106.51,
+        "marketProfitability": "78.89%",
+        "year": 2011
+    },
+    {
+        "name": "Hesher",
+        "audienceScore": 68.0,
+        "story": "Wretched Excess",
+        "worldwideGross": 0.38,
+        "marketProfitability": "5.46%",
+        "year": 2011
+    },
+    {
+        "name": "Hop",
+        "audienceScore": 50.0,
+        "story": "Fish Out Of Water",
+        "worldwideGross": 183.95,
+        "marketProfitability": "291.99%",
+        "year": 2011
+    },
+    {
+        "name": "Horrible Bosses",
+        "audienceScore": 72.0,
+        "story": "Revenge",
+        "worldwideGross": 209.64,
+        "marketProfitability": "598.97%",
+        "year": 2011
+    },
+    {
+        "name": "Hugo",
+        "audienceScore": 84.0,
+        "story": null,
+        "worldwideGross": 96.68,
+        "marketProfitability": "64.45%",
+        "year": 2011
+    },
+    {
+        "name": "I Am Number Four",
+        "audienceScore": 57.0,
+        "story": "Maturation",
+        "worldwideGross": 144.5,
+        "marketProfitability": "240.83%",
+        "year": 2011
+    },
+    {
+        "name": "Immortals",
+        "audienceScore": 59.0,
+        "story": "Revenge",
+        "worldwideGross": 182.49,
+        "marketProfitability": "243.31%",
+        "year": 2011
+    },
+    {
+        "name": "In Time",
+        "audienceScore": 55.0,
+        "story": "The Riddle",
+        "worldwideGross": 127.39,
+        "marketProfitability": "318.48%",
+        "year": 2011
+    },
+    {
+        "name": "Insidious",
+        "audienceScore": 65.0,
+        "story": "Monster Force",
+        "worldwideGross": 97.01,
+        "marketProfitability": "6467.27%",
+        "year": 2011
+    },
+    {
+        "name": "J.Edgar",
+        "audienceScore": 84.0,
+        "story": "Wretched Excess",
+        "worldwideGross": 73.19,
+        "marketProfitability": "209.11%",
+        "year": 2011
+    },
+    {
+        "name": "Jack and Jill",
+        "audienceScore": 59.0,
+        "story": "Comedy",
+        "worldwideGross": 124.93,
+        "marketProfitability": "158.14%",
+        "year": 2011
+    },
+    {
+        "name": "Jane Eyre",
+        "audienceScore": 77.0,
+        "story": "Love",
+        "worldwideGross": 30.15,
+        "marketProfitability": null,
+        "year": 2011
+    },
+    {
+        "name": "Johnny English Reborn",
+        "audienceScore": 55.0,
+        "story": "Comedy",
+        "worldwideGross": 157.94,
+        "marketProfitability": "350.98%",
+        "year": 2011
+    },
+    {
+        "name": "Just Go With It",
+        "audienceScore": 63.0,
+        "story": "Comedy",
+        "worldwideGross": 214.95,
+        "marketProfitability": "268.68%",
+        "year": 2011
+    },
+    {
+        "name": "Killer Elite",
+        "audienceScore": 48.0,
+        "story": "Rivalry",
+        "worldwideGross": 52.96,
+        "marketProfitability": "75.66%",
+        "year": 2011
+    },
+    {
+        "name": "Kung Fu Panda 2",
+        "audienceScore": 80.0,
+        "story": "Rivalry",
+        "worldwideGross": 663.02,
+        "marketProfitability": "442.02%",
+        "year": 2011
+    },
+    {
+        "name": "Larry Crowne",
+        "audienceScore": 46.0,
+        "story": "Discovery",
+        "worldwideGross": 52.41,
+        "marketProfitability": "174.69%",
+        "year": 2011
+    },
+    {
+        "name": "Limitless",
+        "audienceScore": 73.0,
+        "story": "Wretched Excess",
+        "worldwideGross": 161.85,
+        "marketProfitability": "599.44%",
+        "year": 2011
+    },
+    {
+        "name": "Machine Gun Preacher",
+        "audienceScore": 71.0,
+        "story": "Transformation",
+        "worldwideGross": 1.1,
+        "marketProfitability": "3.68%",
+        "year": 2011
+    },
+    {
+        "name": "Margin Call",
+        "audienceScore": 73.0,
+        "story": "Sacrifice",
+        "worldwideGross": 8.87,
+        "marketProfitability": "253.40%",
+        "year": 2011
+    },
+    {
+        "name": "Mars Needs Moms",
+        "audienceScore": 43.0,
+        "story": "Rescue",
+        "worldwideGross": 38.99,
+        "marketProfitability": "25.99%",
+        "year": 2011
+    },
+    {
+        "name": "Midnight in Paris",
+        "audienceScore": 84.0,
+        "story": "Love",
+        "worldwideGross": 148.66,
+        "marketProfitability": "874.47%",
+        "year": 2011
+    },
+    {
+        "name": "Mission Impossible 4",
+        "audienceScore": 86.0,
+        "story": "Pursuit",
+        "worldwideGross": 688.78,
+        "marketProfitability": "475.02%",
+        "year": 2011
+    },
+    {
+        "name": "Moneyball",
+        "audienceScore": 89.0,
+        "story": "Underdog",
+        "worldwideGross": 108.1,
+        "marketProfitability": "216.20%",
+        "year": 2011
+    },
+    {
+        "name": "Monte Carlo",
+        "audienceScore": 50.0,
+        "story": "Love",
+        "worldwideGross": 39.66,
+        "marketProfitability": "198.32%",
+        "year": 2011
+    },
+    {
+        "name": "Mr. Popper's Penguins",
+        "audienceScore": 54.0,
+        "story": "Discovery",
+        "worldwideGross": 187.36,
+        "marketProfitability": "340.65%",
+        "year": 2011
+    },
+    {
+        "name": "My Week with Marilyn",
+        "audienceScore": 84.0,
+        "story": "Love",
+        "worldwideGross": 8.26,
+        "marketProfitability": "82.58%",
+        "year": 2011
+    },
+    {
+        "name": "New Year's Eve",
+        "audienceScore": 48.0,
+        "story": "Love",
+        "worldwideGross": 142.04,
+        "marketProfitability": "253.64%",
+        "year": 2011
+    },
+    {
+        "name": "No Strings Attached",
+        "audienceScore": 57.0,
+        "story": "Comedy",
+        "worldwideGross": 147.7,
+        "marketProfitability": "590.80%",
+        "year": 2011
+    },
+    {
+        "name": "One Day",
+        "audienceScore": 54.0,
+        "story": "Love",
+        "worldwideGross": 55.24,
+        "marketProfitability": "368.27%",
+        "year": 2011
+    },
+    {
+        "name": "Our Idiot Brother",
+        "audienceScore": 79.0,
+        "story": "Comedy",
+        "worldwideGross": 24.82,
+        "marketProfitability": "496.32%",
+        "year": 2011
+    },
+    {
+        "name": "Paranormal Activity 3",
+        "audienceScore": 58.0,
+        "story": "Monster Force",
+        "worldwideGross": 201.9,
+        "marketProfitability": "4037.94%",
+        "year": 2011
+    },
+    {
+        "name": "Paul",
+        "audienceScore": 70.0,
+        "story": "Comedy",
+        "worldwideGross": 97.98,
+        "marketProfitability": "244.96%",
+        "year": 2011
+    },
+    {
+        "name": "Priest",
+        "audienceScore": 37.0,
+        "story": "Monster Force",
+        "worldwideGross": 78.31,
+        "marketProfitability": "130.51%",
+        "year": 2011
+    },
+    {
+        "name": "Puss In Boots",
+        "audienceScore": 76.0,
+        "story": "Quest",
+        "worldwideGross": 522.26,
+        "marketProfitability": "401.74%",
+        "year": 2011
+    },
+    {
+        "name": "Rango",
+        "audienceScore": 69.0,
+        "story": "Fish Out Of Water",
+        "worldwideGross": 245.15,
+        "marketProfitability": "181.60%",
+        "year": 2011
+    },
+    {
+        "name": "Real Steel",
+        "audienceScore": 81.0,
+        "story": "Underdog",
+        "worldwideGross": 269.81,
+        "marketProfitability": "245.28%",
+        "year": 2011
+    },
+    {
+        "name": "Red Riding Hood",
+        "audienceScore": 41.0,
+        "story": "Monster Force",
+        "worldwideGross": 89.16,
+        "marketProfitability": "212.29%",
+        "year": 2011
+    },
+    {
+        "name": "Red State",
+        "audienceScore": 59.0,
+        "story": "Escape",
+        "worldwideGross": 1.1,
+        "marketProfitability": "27.60%",
+        "year": 2011
+    },
+    {
+        "name": "Rio",
+        "audienceScore": 73.0,
+        "story": "Quest",
+        "worldwideGross": 484.63,
+        "marketProfitability": "538.48%",
+        "year": 2011
+    },
+    {
+        "name": "Rise of the Planet of the Apes",
+        "audienceScore": 87.0,
+        "story": "Revenge",
+        "worldwideGross": 481.23,
+        "marketProfitability": "517.45%",
+        "year": 2011
+    },
+    {
+        "name": "Sanctum",
+        "audienceScore": 39.0,
+        "story": "Quest",
+        "worldwideGross": 108.6,
+        "marketProfitability": "362.00%",
+        "year": 2011
+    },
+    {
+        "name": "Scream 4",
+        "audienceScore": 57.0,
+        "story": "Monster Force",
+        "worldwideGross": 97.14,
+        "marketProfitability": "242.84%",
+        "year": 2011
+    },
+    {
+        "name": "Season Of The Witch",
+        "audienceScore": 32.0,
+        "story": "Monster Force",
+        "worldwideGross": 91.6,
+        "marketProfitability": "229.00%",
+        "year": 2011
+    },
+    {
+        "name": "Shame",
+        "audienceScore": 80.0,
+        "story": null,
+        "worldwideGross": 13.96,
+        "marketProfitability": "214.77%",
+        "year": 2011
+    },
+    {
+        "name": "Shark Night 3D",
+        "audienceScore": 25.0,
+        "story": "Escape",
+        "worldwideGross": 38.7,
+        "marketProfitability": "154.81%",
+        "year": 2011
+    },
+    {
+        "name": "Sherlock Holmes 2",
+        "audienceScore": 79.0,
+        "story": "Pursuit",
+        "worldwideGross": 521.96,
+        "marketProfitability": "417.57%",
+        "year": 2011
+    },
+    {
+        "name": "Soul Surfer",
+        "audienceScore": 79.0,
+        "story": "Underdog",
+        "worldwideGross": 44.27,
+        "marketProfitability": "245.93%",
+        "year": 2011
+    },
+    {
+        "name": "Source Code",
+        "audienceScore": 81.0,
+        "story": "The Riddle",
+        "worldwideGross": 123.28,
+        "marketProfitability": "385.24%",
+        "year": 2011
+    },
+    {
+        "name": "Spy Kids: All The Time in the World",
+        "audienceScore": 40.0,
+        "story": "Quest",
+        "worldwideGross": 74.08,
+        "marketProfitability": "274.37%",
+        "year": 2011
+    },
+    {
+        "name": "Sucker Punch",
+        "audienceScore": 48.0,
+        "story": "Quest",
+        "worldwideGross": 89.79,
+        "marketProfitability": "109.50%",
+        "year": 2011
+    },
+    {
+        "name": "Super 8 ",
+        "audienceScore": 78.0,
+        "story": "Monster Force",
+        "worldwideGross": 259.71,
+        "marketProfitability": "519.43%",
+        "year": 2011
+    },
+    {
+        "name": "Take Me Home Tonight",
+        "audienceScore": 46.0,
+        "story": "Discovery",
+        "worldwideGross": 6.93,
+        "marketProfitability": "27.71%",
+        "year": 2011
+    },
+    {
+        "name": "Take Shelter",
+        "audienceScore": 85.0,
+        "story": "Sacrifice",
+        "worldwideGross": 1.57,
+        "marketProfitability": "31.46%",
+        "year": 2011
+    },
+    {
+        "name": "The Adjustment Bureau",
+        "audienceScore": 67.0,
+        "story": "Sacrifice",
+        "worldwideGross": 127.87,
+        "marketProfitability": "254.72%",
+        "year": 2011
+    },
+    {
+        "name": "The Adventures of Tintin",
+        "audienceScore": 78.0,
+        "story": "Quest",
+        "worldwideGross": 373.64,
+        "marketProfitability": "287.42%",
+        "year": 2011
+    },
+    {
+        "name": "The Artist",
+        "audienceScore": 91.0,
+        "story": null,
+        "worldwideGross": 105.74,
+        "marketProfitability": "660.88%",
+        "year": 2011
+    },
+    {
+        "name": "The Beaver",
+        "audienceScore": 57.0,
+        "story": "Transformation",
+        "worldwideGross": 6.37,
+        "marketProfitability": "30.33%",
+        "year": 2011
+    },
+    {
+        "name": "The Big Year",
+        "audienceScore": 62.0,
+        "story": "Transformation",
+        "worldwideGross": 7.41,
+        "marketProfitability": "18.07%",
+        "year": 2011
+    },
+    {
+        "name": "The Change Up",
+        "audienceScore": 53.0,
+        "story": "Metamorphosis",
+        "worldwideGross": 70.83,
+        "marketProfitability": "136.22%",
+        "year": 2011
+    },
+    {
+        "name": "The Company Men",
+        "audienceScore": 55.0,
+        "story": "Discovery",
+        "worldwideGross": 4.8,
+        "marketProfitability": "32.00%",
+        "year": 2011
+    },
+    {
+        "name": "The Conspirator",
+        "audienceScore": 65.0,
+        "story": "Underdog",
+        "worldwideGross": 14.21,
+        "marketProfitability": "56.84%",
+        "year": 2011
+    },
+    {
+        "name": "The Debt",
+        "audienceScore": 70.0,
+        "story": "Pursuit",
+        "worldwideGross": 45.43,
+        "marketProfitability": "227.15%",
+        "year": 2011
+    },
+    {
+        "name": "The Descendants",
+        "audienceScore": 88.0,
+        "story": "Discovery",
+        "worldwideGross": 167.65,
+        "marketProfitability": "838.25%",
+        "year": 2011
+    },
+    {
+        "name": "The Dilemma",
+        "audienceScore": 31.0,
+        "story": "Comedy",
+        "worldwideGross": 69.7,
+        "marketProfitability": "99.57%",
+        "year": 2011
+    },
+    {
+        "name": "The Eagle",
+        "audienceScore": 43.0,
+        "story": "Quest",
+        "worldwideGross": 27.12,
+        "marketProfitability": "108.48%",
+        "year": 2011
+    },
+    {
+        "name": "The Girl With The Dragon Tattoo",
+        "audienceScore": 89.0,
+        "story": null,
+        "worldwideGross": 229.19,
+        "marketProfitability": "254.66%",
+        "year": 2011
+    },
+    {
+        "name": "The Green Hornet",
+        "audienceScore": 47.0,
+        "story": "Rivalry",
+        "worldwideGross": 227.8,
+        "marketProfitability": "189.83%",
+        "year": 2011
+    },
+    {
+        "name": "The Hangover Part II",
+        "audienceScore": 58.0,
+        "story": "Comedy",
+        "worldwideGross": 581.46,
+        "marketProfitability": "726.83%",
+        "year": 2011
+    },
+    {
+        "name": "The Help",
+        "audienceScore": 91.0,
+        "story": "Maturation",
+        "worldwideGross": 206.24,
+        "marketProfitability": "824.98%",
+        "year": 2011
+    },
+    {
+        "name": "The Ides of March",
+        "audienceScore": 76.0,
+        "story": "Transformation",
+        "worldwideGross": 54.19,
+        "marketProfitability": "433.55%",
+        "year": 2011
+    },
+    {
+        "name": "The Iron Lady",
+        "audienceScore": 54.0,
+        "story": null,
+        "worldwideGross": 81.41,
+        "marketProfitability": "626.23%",
+        "year": 2011
+    },
+    {
+        "name": "The Lincoln Lawyer",
+        "audienceScore": 82.0,
+        "story": "Fish Out Of Water",
+        "worldwideGross": 75.01,
+        "marketProfitability": "187.52%",
+        "year": 2011
+    },
+    {
+        "name": "The Mechanic",
+        "audienceScore": 52.0,
+        "story": "Revenge",
+        "worldwideGross": 51.2,
+        "marketProfitability": "128.00%",
+        "year": 2011
+    },
+    {
+        "name": "The Muppets",
+        "audienceScore": 87.0,
+        "story": "Quest",
+        "worldwideGross": 158.34,
+        "marketProfitability": "351.87%",
+        "year": 2011
+    },
+    {
+        "name": "The Rite",
+        "audienceScore": 43.0,
+        "story": "Monster Force",
+        "worldwideGross": 96.0,
+        "marketProfitability": "259.46%",
+        "year": 2011
+    },
+    {
+        "name": "The Roommate",
+        "audienceScore": 29.0,
+        "story": "Monster Force",
+        "worldwideGross": 40.49,
+        "marketProfitability": "253.08%",
+        "year": 2011
+    },
+    {
+        "name": "The Rum Diary",
+        "audienceScore": 48.0,
+        "story": "Discovery",
+        "worldwideGross": 21.55,
+        "marketProfitability": "47.89%",
+        "year": 2011
+    },
+    {
+        "name": "The Sitter",
+        "audienceScore": 43.0,
+        "story": null,
+        "worldwideGross": 34.58,
+        "marketProfitability": "138.32%",
+        "year": 2011
+    },
+    {
+        "name": "The Smurfs",
+        "audienceScore": 50.0,
+        "story": "Fish Out Of Water",
+        "worldwideGross": 562.16,
+        "marketProfitability": "511.05%",
+        "year": 2011
+    },
+    {
+        "name": "The Son Of No One",
+        "audienceScore": 61.0,
+        "story": "Discovery",
+        "worldwideGross": 0.03,
+        "marketProfitability": "0.20%",
+        "year": 2011
+    },
+    {
+        "name": "The Thing",
+        "audienceScore": 52.0,
+        "story": "Monster Force",
+        "worldwideGross": 27.43,
+        "marketProfitability": "72.18%",
+        "year": 2011
+    },
+    {
+        "name": "The Three Musketeers",
+        "audienceScore": 48.0,
+        "story": "Rivalry",
+        "worldwideGross": 132.15,
+        "marketProfitability": "176.20%",
+        "year": 2011
+    },
+    {
+        "name": "The Tree Of Life",
+        "audienceScore": 61.0,
+        "story": "Discovery",
+        "worldwideGross": 54.3,
+        "marketProfitability": "169.70%",
+        "year": 2011
+    },
+    {
+        "name": "Thor",
+        "audienceScore": 80.0,
+        "story": "Monster Force",
+        "worldwideGross": 448.51,
+        "marketProfitability": "299.01%",
+        "year": 2011
+    },
+    {
+        "name": "Tinker Tailor Soldier Spy",
+        "audienceScore": 68.0,
+        "story": null,
+        "worldwideGross": 77.75,
+        "marketProfitability": "370.24%",
+        "year": 2011
+    },
+    {
+        "name": "Tower Heist",
+        "audienceScore": 61.0,
+        "story": "Revenge",
+        "worldwideGross": 164.54,
+        "marketProfitability": "219.39%",
+        "year": 2011
+    },
+    {
+        "name": "Trespass",
+        "audienceScore": 24.0,
+        "story": "Escape",
+        "worldwideGross": 3.12,
+        "marketProfitability": "8.93%",
+        "year": 2011
+    },
+    {
+        "name": "Twilight: Breaking Dawn",
+        "audienceScore": 68.0,
+        "story": "Love",
+        "worldwideGross": 702.17,
+        "marketProfitability": "638.34%",
+        "year": 2011
+    },
+    {
+        "name": "Unknown",
+        "audienceScore": 57.0,
+        "story": "The Riddle",
+        "worldwideGross": 130.79,
+        "marketProfitability": "435.95%",
+        "year": 2011
+    },
+    {
+        "name": "Vanishing on 7th Street",
+        "audienceScore": 62.0,
+        "story": "Monster Force",
+        "worldwideGross": 1.07,
+        "marketProfitability": "10.67%",
+        "year": 2011
+    },
+    {
+        "name": "Waiting For Forever",
+        "audienceScore": 53.0,
+        "story": "Love",
+        "worldwideGross": 0.03,
+        "marketProfitability": "0.50%",
+        "year": 2011
+    },
+    {
+        "name": "War Horse",
+        "audienceScore": 73.0,
+        "story": null,
+        "worldwideGross": 167.54,
+        "marketProfitability": "253.85%",
+        "year": 2011
+    },
+    {
+        "name": "Warrior",
+        "audienceScore": 93.0,
+        "story": "Rivalry",
+        "worldwideGross": 23.06,
+        "marketProfitability": "92.23%",
+        "year": 2011
+    },
+    {
+        "name": "Water For Elephants",
+        "audienceScore": 72.0,
+        "story": "Love",
+        "worldwideGross": 117.09,
+        "marketProfitability": "308.14%",
+        "year": 2011
+    },
+    {
+        "name": "We Bought a Zoo",
+        "audienceScore": 79.0,
+        "story": null,
+        "worldwideGross": 101.18,
+        "marketProfitability": "202.36%",
+        "year": 2011
+    },
+    {
+        "name": "What's Your Number",
+        "audienceScore": 50.0,
+        "story": "Transformation",
+        "worldwideGross": 30.43,
+        "marketProfitability": "152.13%",
+        "year": 2011
+    },
+    {
+        "name": "Winnie The Pooh",
+        "audienceScore": 79.0,
+        "story": "Quest",
+        "worldwideGross": 33.15,
+        "marketProfitability": "110.51%",
+        "year": 2011
+    },
+    {
+        "name": "X-Men: First Class",
+        "audienceScore": 88.0,
+        "story": "Monster Force",
+        "worldwideGross": 353.62,
+        "marketProfitability": "221.01%",
+        "year": 2011
+    },
+    {
+        "name": "Your Highness",
+        "audienceScore": 36.0,
+        "story": "Comedy",
+        "worldwideGross": 24.86,
+        "marketProfitability": "49.81%",
+        "year": 2011
+    },
+    {
+        "name": "Zookeeper",
+        "audienceScore": 42.0,
+        "story": "Comedy",
+        "worldwideGross": 170.3,
+        "marketProfitability": "212.88%",
+        "year": 2011
+    }
+]
