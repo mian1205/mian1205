@@ -4,7 +4,7 @@ function _1(md) {
   
   # Hierarchical bar chart
   
-  Click a blue bar to drill down, or click the "back" button to go back up.`
+`
     )
   }
   

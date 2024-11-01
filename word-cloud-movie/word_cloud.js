@@ -155,7 +155,7 @@ style.innerHTML = `
     border-color: #007bff;
   }
 #wordCloud {
-  width: 60%;
+  width: 100%;
   margin: 30px auto; /* 确保水平居中 */
   text-align: center; /* 内容居中 */
   display: flex; /* 使用 flex 布局 */
